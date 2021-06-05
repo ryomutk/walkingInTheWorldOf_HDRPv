@@ -1,11 +1,21 @@
 using UnityEngine;
+using World.Building;
 
-//道路作成に必要な道のセット
-public interface IRoadSet
+namespace World.Data.Prefab
 {
-    RoadBase turnRight{get;}
-    RoadBase turnLeft{get;}
+    //道路作成に必要な道のセット
+    public interface IRoadSet
+    {
+        RoadBase turnRight { get; }
+        RoadBase turnLeft { get; }
 
 
-    RoadBase GetSlice(RoadType type);
+        RoadBase GetSlice(RoadType type);
+    }
+
+    public enum RoadType
+    {
+        corridor,
+        stairs
+    }
 }

@@ -1,27 +1,32 @@
 using UnityEngine;
+using Utility;
 
-public class Stairs : RoadBase
+namespace World.Building
 {
-    public override void Remap()
+    public class Stairs : RoadBase
     {
-        base.Remap();
-        _path = Vector3Int.RoundToInt(GetPath());
-    }
-    
-    public override Vector3 GetPath()
-    {
-        if (doorwayList.Count == 1)
+        public override void Remap()
         {
-            return Vector3.up + Vector3.forward;
-        }
-        else if (doorwayList.Count == 2)
-        {
-            return doorwayList.Find(x => x.transform.localPosition != Vector3.zero).transform.localPosition + Vector3.forward + Vector3.up;
+            base.Remap();
+            _path = Vector3Int.RoundToInt(GetPath());
         }
 
-        ErrorLogger.Log("FAILED TO GET PATH \n       DOOR COUNT: {0}", this.name);
+        public override Vector3 GetPath()
+        {
+            if (doorwayList.Count == 1)
+            {
+                return Vector3.up + Vector3.forward;
+            }
+            else if (doorwayList.Count == 2)
+            {
+                return doorwayList.Find(x => x.transform.localPosition != Vector3.zero).transform.localPosition + Vector3.forward + Vector3.up;
+            }
 
-        return Vector3.zero;
+            ErrorLogger.Log("FAILED TO GET PATH \n       DOOR COUNT: {0}", this.name);
 
+            return Vector3.zero;
+
+        }
     }
 }
+

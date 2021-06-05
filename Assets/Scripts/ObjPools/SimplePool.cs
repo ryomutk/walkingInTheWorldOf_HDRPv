@@ -1,79 +1,85 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using ModulePattern;
 
-//非MonoBehaviourで直下にPoolを作る
-public class SimplePool<T>:IPoolObject<T>
-where T:MonoBehaviour
+namespace Utility.ObjPool
 {
-    T objPrefab = null;
-    ModuleState state;
-    List<T> objList;
-    Transform transform;
 
-    public SimplePool(Transform trans) : base()
+    //非MonoBehaviourで直下にPoolを作る
+    public class SimplePool<T> : IPoolObject<T>
+    where T : MonoBehaviour
     {
-        transform = trans;
-        objList = new List<T>();
-    }
+        T objPrefab = null;
+        ModuleState state;
+        List<T> objList;
+        Transform transform;
 
-    public bool CreatePool(T obj, int num)
-    {
-        if (num >= 0)
+        public SimplePool(Transform trans) : base()
         {
-            objPrefab = obj;
-            state = ModuleState.working;
+            transform = trans;
+            objList = new List<T>();
+        }
 
-            for (int i = 0; i < num; i++)
+        public bool CreatePool(T obj, int num)
+        {
+            if (num >= 0)
             {
-                CreateObj();
+                objPrefab = obj;
+                state = ModuleState.working;
+
+                for (int i = 0; i < num; i++)
+                {
+                    CreateObj();
+                }
             }
+            return false;
         }
-        return false;
-    }
 
 
-    public T GetObj(bool activate = true)
-    {
-        T returnObj = null;
-        foreach (T obj in objList)
+        public T GetObj(bool activate = true)
         {
-            if (!obj.gameObject.activeSelf)
+            T returnObj = null;
+            foreach (T obj in objList)
             {
-                returnObj = obj;
-                break;
+                if (!obj.gameObject.activeSelf)
+                {
+                    returnObj = obj;
+                    break;
+                }
             }
+
+            if (returnObj == null)
+            {
+                returnObj = CreateObj();
+            }
+
+            if (activate)
+            {
+
+                returnObj.gameObject.SetActive(true);
+            }
+
+            return returnObj;
         }
 
-        if (returnObj == null)
+        T CreateObj()
         {
-            returnObj = CreateObj();
+            if (state != ModuleState.disabled)
+            {
+                var clone = MonoBehaviour.Instantiate(objPrefab, transform);
+                clone.transform.localPosition = Vector2.zero;
+                objList.Add(clone);
+                clone.gameObject.SetActive(false);
+                return clone;
+            }
+            return null;
         }
 
-        if (activate)
+        ~SimplePool()
         {
-
-            returnObj.gameObject.SetActive(true);
+            MonoBehaviour.Destroy(transform);
         }
-
-        return returnObj;
     }
 
-    T CreateObj()
-    {
-        if (state != ModuleState.disabled)
-        {
-            var clone = MonoBehaviour.Instantiate(objPrefab, transform);
-            clone.transform.localPosition = Vector2.zero;
-            objList.Add(clone);
-            clone.gameObject.SetActive(false);
-            return clone;
-        }
-        return null;
-    }
-
-    ~SimplePool()
-    {
-        MonoBehaviour.Destroy(transform);    
-    }
 }

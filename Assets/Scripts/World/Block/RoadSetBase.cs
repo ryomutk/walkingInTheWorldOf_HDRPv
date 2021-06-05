@@ -1,40 +1,45 @@
 using UnityEngine;
+using World.Building;
 
-public abstract class RoadSetBase : ScriptableObject,IRoadSet
+namespace World.Data.Prefab
 {
-    public abstract RoadBase turnRight { get; }
-    public abstract RoadBase turnLeft { get; }
-    protected Logger logger;
 
-
-    void OnValidate()
+    public abstract class RoadSetBase : ScriptableObject, IRoadSet
     {
-        Authorize();
-        logger = new Logger("RoadLog", this.name);
-        logger.Log("Resources authorized!");
-    }
-    public abstract RoadBase GetSlice(RoadType type);
+        public abstract RoadBase turnRight { get; }
+        public abstract RoadBase turnLeft { get; }
+        protected Utility.Logger logger;
 
-    protected virtual bool Authorize()
-    {
 
-        //曲がり角は正しく曲がってさえいれば良い
-        if (turnRight.turn != Direction.right)
+        void OnValidate()
         {
-            logger.LogError("!ERROR! check right part");
-
-            return false;
+            Authorize();
+            logger = new Utility.Logger("RoadLog", this.name);
+            logger.Log("Resources authorized!");
         }
+        public abstract RoadBase GetSlice(RoadType type);
 
-        if (turnLeft.turn != Direction.left)
+        protected virtual bool Authorize()
         {
-            logger.LogError("!ERROR! check left part");
 
-            return false;
+            //曲がり角は正しく曲がってさえいれば良い
+            if (turnRight.turn != Direction.right)
+            {
+                logger.LogError("!ERROR! check right part");
+
+                return false;
+            }
+
+            if (turnLeft.turn != Direction.left)
+            {
+                logger.LogError("!ERROR! check left part");
+
+                return false;
+            }
+
+
+
+            return true;
         }
-
-
-
-        return true;
     }
 }

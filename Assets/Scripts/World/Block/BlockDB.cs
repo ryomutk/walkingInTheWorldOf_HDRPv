@@ -1,22 +1,27 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using System.Linq;
+using Utility;
 
-public class BlockDB : Singleton<BlockDB>
+using World.Block;
+
+namespace World.Data.Database
 {
-    [SerializeField,Sirenix.OdinInspector.InlineEditor] List<BlockHolder> _holders;
-
-
-    public BuildBlock Get(BlockType type, int index = 0)
+    public class BlockDB : Singleton<BlockDB>
     {
-        var holder = _holders.Find(x => x.type == type);
+        [SerializeField, Sirenix.OdinInspector.InlineEditor] List<BlockHolder> _holders;
 
-        if (holder == null)
+
+        public BuildBlock Get(BlockType type, int index = 0)
         {
-            Debug.LogWarning("block of type" + type + "is not set!");
-        }
+            var holder = _holders.Find(x => x.type == type);
 
-        return holder.GetBlock(index);
+            if (holder == null)
+            {
+                Debug.LogWarning("block of type" + type + "is not set!");
+            }
+
+            return holder.GetBlock(index);
+        }
     }
 }

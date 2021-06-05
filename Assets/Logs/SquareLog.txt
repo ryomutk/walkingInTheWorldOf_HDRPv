@@ -34621,3 +34621,138 @@
 01:06:58  ________________LOG START__________________________
 01:06:58  Square(Clone)3:HIDE BEGIN
 01:06:58  Square(Clone)3:CollidorStructure(Clone)3
+01:44:41  SQUARE POOL INITIALIZED
+01:44:53  SQUARE:Square(Clone)0 BUILT.  USED:CollidorStructure(Clone)0
+01:44:53  ________________LOG START__________________________
+01:44:53  Square(Clone)0:HIDE BEGIN
+01:44:53  Square(Clone)0:CollidorStructure(Clone)0
+01:45:01  SQUARE POOL INITIALIZED
+01:45:08  SQUARE:Square(Clone)0 BUILT.  USED:CollidorStructure(Clone)0
+01:45:08  ________________LOG START__________________________
+01:45:08  Square(Clone)0:HIDE BEGIN
+01:45:08  Square(Clone)0:CollidorStructure(Clone)0
+01:45:11  SQUARE:Square(Clone)1 BUILT.  USED:CollidorStructure(Clone)1
+01:45:11  ________________LOG START__________________________
+01:45:11  Square(Clone)1:HIDE BEGIN
+01:45:11  Square(Clone)1:CollidorStructure(Clone)1
+01:45:13  SQUARE:Square(Clone)2 BUILT.  USED:CollidorStructure(Clone)2
+01:45:13  ________________LOG START__________________________
+01:45:13  Square(Clone)2:HIDE BEGIN
+01:45:13  Square(Clone)2:CollidorStructure(Clone)2
+01:45:17  SQUARE:Square(Clone)3 BUILT.  USED:CollidorStructure(Clone)3
+01:45:17  ________________LOG START__________________________
+01:45:17  Square(Clone)3:HIDE BEGIN
+01:45:17  Square(Clone)3:CollidorStructure(Clone)3
+01:47:41  SQUARE POOL INITIALIZED
+01:47:43  SQUARE:Square(Clone)0 BUILT.  USED:CollidorStructure(Clone)0
+01:47:43  ________________LOG START__________________________
+01:47:43  Square(Clone)0:HIDE BEGIN
+01:47:43  Square(Clone)0:CollidorStructure(Clone)0
+01:47:46  SQUARE:Square(Clone)1 BUILT.  USED:CollidorStructure(Clone)1
+01:47:46  ________________LOG START__________________________
+01:47:46  Square(Clone)1:HIDE BEGIN
+01:47:46  Square(Clone)1:CollidorStructure(Clone)1
+01:47:47  SQUARE:Square(Clone)2 BUILT.  USED:CollidorStructure(Clone)2
+01:47:47  ________________LOG START__________________________
+01:47:47  Square(Clone)2:HIDE BEGIN
+01:47:47  Square(Clone)2:CollidorStructure(Clone)2
+01:47:50  SQUARE:Square(Clone)3 BUILT.  USED:CollidorStructure(Clone)3
+01:47:50  ________________LOG START__________________________
+01:47:50  Square(Clone)3:HIDE BEGIN
+01:47:50  Square(Clone)3:CollidorStructure(Clone)3
+01:48:15  SQUARE POOL INITIALIZED
+01:48:26  SQUARE:Square(Clone)0 BUILT.  USED:CollidorStructure(Clone)0
+01:48:26  ________________LOG START__________________________
+01:48:26  Square(Clone)0:HIDE BEGIN
+01:48:26  Square(Clone)0:CollidorStructure(Clone)0
+01:48:29  SQUARE:Square(Clone)1 BUILT.  USED:CollidorStructure(Clone)1
+01:48:29  ________________LOG START__________________________
+01:48:29  Square(Clone)1:HIDE BEGIN
+01:48:29  Square(Clone)1:CollidorStructure(Clone)1
+01:48:31  SQUARE:Square(Clone)2 BUILT.  USED:CollidorStructure(Clone)2
+01:48:31  ________________LOG START__________________________
+01:48:31  Square(Clone)2:HIDE BEGIN
+01:48:31  Square(Clone)2:CollidorStructure(Clone)2
+01:48:33  SQUARE:Square(Clone)3 BUILT.  USED:CollidorStructure(Clone)3
+01:48:33  ________________LOG START__________________________
+01:48:33  Square(Clone)3:HIDE BEGIN
+01:48:33  Square(Clone)3:CollidorStructure(Clone)3
+02:07:38  SQUARE POOL INITIALIZED
+02:07:49  SQUARE:Square(Clone)0 BUILT.  USED:CollidorStructure(Clone)0
+02:07:49  ________________LOG START__________________________
+02:07:49  Square(Clone)0:HIDE BEGIN
+02:07:49  Square(Clone)0:CollidorStructure(Clone)0
+02:07:52  SQUARE:Square(Clone)1 BUILT.  USED:CollidorStructure(Clone)1
+02:07:52  ________________LOG START__________________________
+02:07:52  Square(Clone)1:HIDE BEGIN
+02:07:52  Square(Clone)1:CollidorStructure(Clone)1
+02:07:53  SQUARE:Square(Clone)2 BUILT.  USED:CollidorStructure(Clone)2
+02:07:53  ________________LOG START__________________________
+02:07:53  Square(Clone)2:HIDE BEGIN
+02:07:53  Square(Clone)2:CollidorStructure(Clone)2
+02:07:56  SQUARE:Square(Clone)3 BUILT.  USED:CollidorStructure(Clone)3
+02:07:56  ________________LOG START__________________________
+02:07:56  Square(Clone)3:HIDE BEGIN
+02:07:56  Square(Clone)3:CollidorStructure(Clone)3
+02:25:09  SQUARE POOL INITIALIZED
+02:25:15  SQUARE:Square(Clone)0 BUILT.  USED:CollidorStructure(Clone)0
+02:25:15  ________________LOG START__________________________
+02:25:15  Square(Clone)0:HIDE BEGIN
+02:25:15  Square(Clone)0:CollidorStructure(Clone)0
+02:25:17  SQUARE:Square(Clone)1 BUILT.  USED:CollidorStructure(Clone)1
+02:25:17  ________________LOG START__________________________
+02:25:17  Square(Clone)1:HIDE BEGIN
+02:25:17  Square(Clone)1:CollidorStructure(Clone)1
+02:25:18  SQUARE:Square(Clone)2 BUILT.  USED:CollidorStructure(Clone)2
+02:25:18  ________________LOG START__________________________
+02:25:18  Square(Clone)2:HIDE BEGIN
+02:25:18  Square(Clone)2:CollidorStructure(Clone)2
+02:25:22  SQUARE:Square(Clone)3 BUILT.  USED:CollidorStructure(Clone)3
+02:25:22  ________________LOG START__________________________
+02:25:22  Square(Clone)3:HIDE BEGIN
+02:25:22  Square(Clone)3:CollidorStructure(Clone)3
+02:25:27  SQUARE POOL INITIALIZED
+02:25:31  SQUARE:Square(Clone)0 BUILT.  USED:CollidorStructure(Clone)0
+02:25:32  ________________LOG START__________________________
+02:25:32  Square(Clone)0:HIDE BEGIN
+02:25:32  Square(Clone)0:CollidorStructure(Clone)0
+02:25:35  SQUARE:Square(Clone)1 BUILT.  USED:CollidorStructure(Clone)1
+02:25:35  ________________LOG START__________________________
+02:25:35  Square(Clone)1:HIDE BEGIN
+02:25:35  Square(Clone)1:CollidorStructure(Clone)1
+02:25:36  SQUARE:Square(Clone)2 BUILT.  USED:CollidorStructure(Clone)2
+02:25:36  ________________LOG START__________________________
+02:25:36  Square(Clone)2:HIDE BEGIN
+02:25:36  Square(Clone)2:CollidorStructure(Clone)2
+02:25:40  SQUARE:Square(Clone)3 BUILT.  USED:CollidorStructure(Clone)3
+02:25:40  ________________LOG START__________________________
+02:25:40  Square(Clone)3:HIDE BEGIN
+02:25:40  Square(Clone)3:CollidorStructure(Clone)3
+02:29:27  SQUARE POOL INITIALIZED
+02:29:38  SQUARE:Square(Clone)0 BUILT.  USED:CollidorStructure(Clone)0
+02:29:38  ________________LOG START__________________________
+02:29:38  Square(Clone)0:HIDE BEGIN
+02:29:38  Square(Clone)0:CollidorStructure(Clone)0
+02:30:04  SQUARE POOL INITIALIZED
+02:30:10  SQUARE:Square(Clone)0 BUILT.  USED:CollidorStructure(Clone)0
+02:30:10  ________________LOG START__________________________
+02:30:10  Square(Clone)0:HIDE BEGIN
+02:30:10  Square(Clone)0:CollidorStructure(Clone)0
+02:31:35  SQUARE POOL INITIALIZED
+02:31:46  SQUARE:Square(Clone)0 BUILT.  USED:CollidorStructure(Clone)0
+02:31:46  ________________LOG START__________________________
+02:31:46  Square(Clone)0:HIDE BEGIN
+02:31:46  Square(Clone)0:CollidorStructure(Clone)0
+02:31:48  SQUARE:Square(Clone)1 BUILT.  USED:CollidorStructure(Clone)1
+02:31:48  ________________LOG START__________________________
+02:31:48  Square(Clone)1:HIDE BEGIN
+02:31:48  Square(Clone)1:CollidorStructure(Clone)1
+02:31:50  SQUARE:Square(Clone)2 BUILT.  USED:CollidorStructure(Clone)2
+02:31:50  ________________LOG START__________________________
+02:31:50  Square(Clone)2:HIDE BEGIN
+02:31:50  Square(Clone)2:CollidorStructure(Clone)2
+02:31:53  SQUARE:Square(Clone)3 BUILT.  USED:CollidorStructure(Clone)3
+02:31:53  ________________LOG START__________________________
+02:31:53  Square(Clone)3:HIDE BEGIN
+02:31:53  Square(Clone)3:CollidorStructure(Clone)3
+02:35:56  SQUARE POOL INITIALIZED

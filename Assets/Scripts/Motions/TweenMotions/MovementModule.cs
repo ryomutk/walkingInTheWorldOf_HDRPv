@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using DG.Tweening;
 using Sirenix.OdinInspector;
+using ModulePattern;
 
 /// <summary>
 /// 全ての移動するオブジェクトの基底となるクラス。

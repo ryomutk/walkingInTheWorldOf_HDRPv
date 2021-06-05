@@ -1816,3 +1816,308 @@
           46:14SET: on position:(13.0, -0.4, 37.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
           56:14ROAD BUILT!
 01:16:40  StandardRoadSet line:14: Resources authorized!
+01:44:14  StandardRoadSet line:14: Resources authorized!
+01:44:40  StandardRoadSet line:14: Resources authorized!
+01:45:00  StandardRoadSet line:14: Resources authorized!
+01:45:24  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:45:24              >ERROR!:end directionleft is not suitable
+01:45:24  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:45:24              >ERROR!:end directionleft is not suitable
+01:45:24  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:45:24              >ERROR!:end directionleft is not suitable
+01:45:25  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(-5, 0, 0)
+01:45:25              >ERROR!:end directionright is not suitable
+01:45:25  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(-5, 0, 0)
+01:45:25              >ERROR!:end directionright is not suitable
+01:45:25  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(-5, 0, 0)
+01:45:25              >ERROR!:end directionright is not suitable
+01:45:28  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:45:28              >ERROR!:end directionleft is not suitable
+01:45:28  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:45:28              >ERROR!:end directionleft is not suitable
+01:45:28  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:45:28              >ERROR!:end directionleft is not suitable
+01:45:33  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:45:33              >ERROR!:end directionleft is not suitable
+01:45:33  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:45:33              >ERROR!:end directionleft is not suitable
+01:45:34  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(-5, 0, 0)
+01:45:34              >ERROR!:end directionright is not suitable
+01:45:34  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(-5, 0, 0)
+01:45:34              >ERROR!:end directionright is not suitable
+01:45:39  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:45:39              >ERROR!:end directionleft is not suitable
+01:45:39  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:45:39              >ERROR!:end directionleft is not suitable
+01:45:42  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:45:42              >ERROR!:end directionleft is not suitable
+01:45:42  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:45:42              >ERROR!:end directionleft is not suitable
+01:45:43  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:45:43              >ERROR!:end directionleft is not suitable
+01:45:43  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:45:43              >ERROR!:end directionleft is not suitable
+01:45:44  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:45:44              >ERROR!:end directionleft is not suitable
+01:45:46  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:45:46              >ERROR!:end directionleft is not suitable
+01:45:46  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:45:46              >ERROR!:end directionleft is not suitable
+01:45:52  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:45:52              >ERROR!:end directionleft is not suitable
+01:45:53  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(-5, 0, 0)
+01:45:53              >ERROR!:end directionright is not suitable
+01:45:55  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:45:55              >ERROR!:end directionleft is not suitable
+01:45:55  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:45:55              >ERROR!:end directionleft is not suitable
+01:47:29  StandardRoadSet line:14: Resources authorized!
+01:47:41  StandardRoadSet line:14: Resources authorized!
+01:48:00  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(0, 0, 5)
+          92:         92Added road of path(0, 0, 1)
+          92:         92Added road of path(0, 0, 1)
+          92:         92Added road of path(0, 0, 1)
+          92:         92Added road of path(0, 0, 1)
+          92:         92Added road of path(0, 0, 1)
+01:48:00  ROAD DATA line:39: now modpath is(0, 0, 5)
+          228:          228ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:48:00  ROAD BUILDER line:35: BUILD START!
+          47:            47SET: on position:(12.0, 0.0, 4.0)    path(modified):(0, 0, 1)           rotation:(0.0, 0.0, 0.0)
+          47:            47SET: on position:(12.0, 0.0, 5.0)    path(modified):(0, 0, 1)           rotation:(0.0, 0.0, 0.0)
+          47:            47SET: on position:(12.0, 0.0, 6.0)    path(modified):(0, 0, 1)           rotation:(0.0, 0.0, 0.0)
+          47:            47SET: on position:(12.0, 0.0, 7.0)    path(modified):(0, 0, 1)           rotation:(0.0, 0.0, 0.0)
+          47:            47SET: on position:(12.0, 0.0, 8.0)    path(modified):(0, 0, 1)           rotation:(0.0, 0.0, 0.0)
+          57:            57ROAD BUILT!
+01:48:00  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(0, 0, 5)
+          92:         92Added road of path(0, 0, 1)
+          92:         92Added road of path(0, 0, 1)
+          92:         92Added road of path(0, 0, 1)
+          92:         92Added road of path(0, 0, 1)
+          92:         92Added road of path(0, 0, 1)
+01:48:00  ROAD DATA line:39: now modpath is(0, 0, 5)
+          228:          228ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:48:00  ROAD BUILDER line:35: BUILD START!
+          47:            47SET: on position:(12.0, 0.0, 4.0)    path(modified):(0, 0, 1)           rotation:(0.0, 0.0, 0.0)
+          47:            47SET: on position:(12.0, 0.0, 5.0)    path(modified):(0, 0, 1)           rotation:(0.0, 0.0, 0.0)
+          47:            47SET: on position:(12.0, 0.0, 6.0)    path(modified):(0, 0, 1)           rotation:(0.0, 0.0, 0.0)
+          47:            47SET: on position:(12.0, 0.0, 7.0)    path(modified):(0, 0, 1)           rotation:(0.0, 0.0, 0.0)
+          47:            47SET: on position:(12.0, 0.0, 8.0)    path(modified):(0, 0, 1)           rotation:(0.0, 0.0, 0.0)
+          57:            57ROAD BUILT!
+01:48:15  StandardRoadSet line:14: Resources authorized!
+01:48:37  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:48:37              >ERROR!:end directionback is not suitable
+01:48:37  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:48:37              >ERROR!:end directionback is not suitable
+01:48:50  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:48:50              >ERROR!:end directionback is not suitable
+01:48:50  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(5, 0, 0)
+01:48:50              >ERROR!:end directionback is not suitable
+01:48:50  ROAD SERVER line:34: START: creating path set
+          35:           35PATH:(-5, 0, 0)
+01:48:50              >ERROR!:end directionback is not suitable
+02:07:34  StandardRoadSet line:14: Resources authorized!
+02:07:38  StandardRoadSet line:14: Resources authorized!
+02:08:09  ROAD SERVER line:49: START: creating path set
+          50:           50PATH:(0, 0, 5)
+          92:         92Added road of path(0, 0, 1)
+          92:         92Added road of path(0, 0, 1)
+          92:         92Added road of path(0, 0, 1)
+          92:         92Added road of path(0, 0, 1)
+          92:         92Added road of path(0, 0, 1)
+02:08:09  ROAD DATA line:39: now modpath is(0, 0, 5)
+          243:          243ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+02:08:09  ROAD BUILDER line:35: BUILD START!
+          47:            47SET: on position:(4.0, 0.0, 14.0)    path(modified):(0, 0, 1)           rotation:(0.0, 0.0, 0.0)
+          47:            47SET: on position:(4.0, 0.0, 15.0)    path(modified):(0, 0, 1)           rotation:(0.0, 0.0, 0.0)
+          47:            47SET: on position:(4.0, 0.0, 16.0)    path(modified):(0, 0, 1)           rotation:(0.0, 0.0, 0.0)
+          47:            47SET: on position:(4.0, -0.1, 17.0)   path(modified):(0, 0, 1)           rotation:(0.0, 0.0, 0.0)
+          47:            47SET: on position:(4.0, -0.1, 18.0)   path(modified):(0, 0, 1)           rotation:(0.0, 0.0, 0.0)
+          57:            57ROAD BUILT!
+02:25:04  StandardRoadSet line:14: Resources authorized!
+02:25:09  StandardRoadSet line:14: Resources authorized!
+02:25:26  StandardRoadSet line:14: Resources authorized!
+02:25:47  ROAD SERVER line:49: START: creating path set
+                     50:PATH:(0, 0, 5)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+02:25:47  ROAD DATA line:39: now modpath is(0, 0, 5)
+                    243:ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+02:25:47  ROAD BUILDER line:35: BUILD START!
+                      50:SET: on position:(4.0, 0.0, 14.0)    path(modified):(1.0, 0.0, 0.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(5.0, 0.0, 14.0)    path(modified):(1.0, 0.0, 0.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(6.0, 0.0, 14.0)    path(modified):(1.0, 0.0, 0.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(7.0, 0.0, 14.0)    path(modified):(1.0, 0.0, 0.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(8.0, 0.0, 14.0)    path(modified):(1.0, 0.0, 0.0)     rotation:(0.0, 0.0, 0.0)
+                      60:ROAD BUILT!
+02:25:49  ROAD SERVER line:49: START: creating path set
+                     50:PATH:(0, 0, 5)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+02:25:49  ROAD DATA line:39: now modpath is(0, 0, 5)
+                    243:ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+02:25:49  ROAD BUILDER line:35: BUILD START!
+                      50:SET: on position:(4.0, 0.0, 14.0)    path(modified):(1.0, 0.0, 0.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(5.0, 0.0, 14.0)    path(modified):(1.0, 0.0, 0.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(6.0, 0.0, 14.0)    path(modified):(1.0, 0.0, 0.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(7.0, 0.0, 14.0)    path(modified):(1.0, 0.0, 0.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(8.0, 0.0, 14.0)    path(modified):(1.0, 0.0, 0.0)     rotation:(0.0, 0.0, 0.0)
+                      60:ROAD BUILT!
+02:25:58  ROAD SERVER line:49: START: creating path set
+                     50:PATH:(0, 0, 5)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+02:25:58  ROAD DATA line:39: now modpath is(0, 0, 5)
+                    243:ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+02:25:58  ROAD BUILDER line:35: BUILD START!
+                      50:SET: on position:(4.0, 0.0, 5.0)     path(modified):(1.0, 0.0, 0.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(5.0, 0.0, 5.0)     path(modified):(1.0, 0.0, 0.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(6.0, 0.0, 5.0)     path(modified):(1.0, 0.0, 0.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(7.0, 0.0, 5.0)     path(modified):(1.0, 0.0, 0.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(8.0, 0.0, 5.0)     path(modified):(1.0, 0.0, 0.0)     rotation:(0.0, 0.0, 0.0)
+                      60:ROAD BUILT!
+02:25:58  ROAD SERVER line:49: START: creating path set
+                     50:PATH:(0, 0, 5)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+02:25:58  ROAD DATA line:39: now modpath is(0, 0, 5)
+                    243:ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+02:25:58  ROAD BUILDER line:35: BUILD START!
+                      50:SET: on position:(4.0, 0.0, 5.0)     path(modified):(1.0, 0.0, 0.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(5.0, 0.0, 5.0)     path(modified):(1.0, 0.0, 0.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(6.0, 0.0, 5.0)     path(modified):(1.0, 0.0, 0.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(7.0, 0.0, 5.0)     path(modified):(1.0, 0.0, 0.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(8.0, 0.0, 5.0)     path(modified):(1.0, 0.0, 0.0)     rotation:(0.0, 0.0, 0.0)
+                      60:ROAD BUILT!
+02:26:42  ROAD SERVER line:49: START: creating path set
+                     50:PATH:(0, 0, 5)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+02:26:42  ROAD DATA line:39: now modpath is(0, 0, 5)
+                    243:ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+02:26:42  ROAD BUILDER line:35: BUILD START!
+                      50:SET: on position:(9.0, 0.0, 5.0)     path(modified):(-1.0, 0.0, 0.0)    rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(8.0, 0.0, 5.0)     path(modified):(-1.0, 0.0, 0.0)    rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(7.0, 0.0, 5.0)     path(modified):(-1.0, 0.0, 0.0)    rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(6.0, 0.0, 5.0)     path(modified):(-1.0, 0.0, 0.0)    rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(5.0, 0.0, 5.0)     path(modified):(-1.0, 0.0, 0.0)    rotation:(0.0, 0.0, 0.0)
+                      60:ROAD BUILT!
+02:26:42  ROAD SERVER line:49: START: creating path set
+                     50:PATH:(0, 0, 5)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+02:26:42  ROAD DATA line:39: now modpath is(0, 0, 5)
+                    243:ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+02:26:42  ROAD BUILDER line:35: BUILD START!
+                      50:SET: on position:(9.0, 0.0, 5.0)     path(modified):(-1.0, 0.0, 0.0)    rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(8.0, 0.0, 5.0)     path(modified):(-1.0, 0.0, 0.0)    rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(7.0, 0.0, 5.0)     path(modified):(-1.0, 0.0, 0.0)    rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(6.0, 0.0, 5.0)     path(modified):(-1.0, 0.0, 0.0)    rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(5.0, 0.0, 5.0)     path(modified):(-1.0, 0.0, 0.0)    rotation:(0.0, 0.0, 0.0)
+                      60:ROAD BUILT!
+02:29:13  StandardRoadSet line:14: Resources authorized!
+02:29:27  StandardRoadSet line:14: Resources authorized!
+02:29:59  StandardRoadSet line:14: Resources authorized!
+02:30:03  StandardRoadSet line:14: Resources authorized!
+02:31:34  StandardRoadSet line:14: Resources authorized!
+02:32:05  ROAD SERVER line:49: START: creating path set
+                     50:PATH:(0, 0, 5)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+02:32:05  ROAD DATA line:39: now modpath is(0, 0, 5)
+                    243:ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+02:32:05  ROAD BUILDER line:35: BUILD START!
+                      50:SET: on position:(12.0, 0.0, 4.0)    path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(12.0, 0.0, 5.0)    path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+02:32:05  ROAD SERVER line:49: START: creating path set
+                     50:PATH:(0, 0, 5)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+02:32:05  ROAD DATA line:39: now modpath is(0, 0, 5)
+                    243:ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+02:32:05  ROAD BUILDER line:35: BUILD START!
+                      50:SET: on position:(12.0, 0.0, 4.0)    path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(12.0, 0.0, 6.0)    path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(12.0, 0.0, 5.0)    path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(12.0, 0.0, 7.0)    path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(12.0, 0.0, 6.0)    path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(12.0, 0.0, 8.0)    path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(12.0, 0.0, 7.0)    path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      60:ROAD BUILT!
+                      50:SET: on position:(12.0, 0.0, 8.0)    path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      60:ROAD BUILT!
+02:33:48  ROAD SERVER line:49: START: creating path set
+                     50:PATH:(0, 0, 5)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+                   92:Added road of path(0, 0, 1)
+02:33:48  ROAD DATA line:39: now modpath is(0, 0, 5)
+                    243:ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+02:33:48  ROAD BUILDER line:35: BUILD START!
+                      50:SET: on position:(3.0, 0.0, 4.0)     path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(3.0, 0.0, 5.0)     path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(3.0, 0.0, 6.0)     path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(3.0, 0.0, 7.0)     path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      50:SET: on position:(3.0, 0.0, 8.0)     path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      60:ROAD BUILT!
+02:35:55  StandardRoadSet line:14: Resources authorized!
+02:39:11  StandardRoadSet line:14: Resources authorized!
+02:39:45  StandardRoadSet line:14: Resources authorized!
+05:49:14  StandardRoadSet line:18: Resources authorized!

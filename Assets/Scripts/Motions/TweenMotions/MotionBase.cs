@@ -1,6 +1,7 @@
 using UnityEngine;
 using DG.Tweening;
 using Sirenix.OdinInspector;
+using Utility;
 
 public abstract class MotionBase : EnterExitModule
 {

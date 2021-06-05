@@ -2,29 +2,37 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SingleClass<T>
-where T:SingleClass<T>
+namespace Utility
 {
-    public static T instance{get{return _instance;} private set{_instance = value;}}
-    static T _instance = null;
 
-    protected SingleClass()
+    public class SingleClass<T>
+    where T : SingleClass<T>
     {
-        CreateSingleton();   
-    }
+        public static T instance { get { return _instance; } private set { _instance = value; } }
+        static T _instance = null;
 
-    void CreateSingleton(){
-        if(instance == null){
-            instance = this as T;
+        protected SingleClass()
+        {
+            CreateSingleton();
+        }
+
+        void CreateSingleton()
+        {
+            if (instance == null)
+            {
+                instance = this as T;
+            }
+        }
+
+        void OnDestroy()
+        {
+            instance = null;
+        }
+
+        ~SingleClass()
+        {
+            instance = null;
         }
     }
 
-    void OnDestroy()
-    {
-        instance = null;
-    }
-
-    ~SingleClass(){
-        instance = null;
-    }
 }

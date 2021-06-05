@@ -1,22 +1,26 @@
-using UnityEngine;
+using ModulePattern;
+using ObserverPattern;
+using World.Block;
 
-public class BuildBlockMediator : MediatorBase<BuildBlock>
+namespace World.ObserverPattern
 {
-
-    protected override bool ConvertNotice(BuildBlock source, IObserverBase observer)
+    public class BuildBlockMediator : MediatorBase<BuildBlock>
     {
-        if (!base.ConvertNotice(source, observer))
+        protected override bool ConvertNotice(BuildBlock source, IObserverBase observer)
         {
-            switch(observer)
+            if (!base.ConvertNotice(source, observer))
             {
-                case IObserver<ModuleState> obs1:
-                obs1.OnNotice(source.state);
-                return true;
+                switch (observer)
+                {
+                    case IObserver<ModuleState> obs1:
+                        obs1.OnNotice(source.state);
+                        return true;
+                }
             }
+
+            logger.LogError("Notice method for TYPE:" + observer.GetType() + "is not Implemented!");
+            return false;
         }
 
-        logger.LogError("Notice method for TYPE:"+observer.GetType() + "is not Implemented!");
-        return false;
     }
-
 }

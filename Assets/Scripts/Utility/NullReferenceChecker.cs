@@ -4,54 +4,59 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
 
-public class NullReferenceChecker
+namespace Utility
 {
-    public static bool HasBrokenObj<T>(List<T> list)
-    where T : MonoBehaviour
+
+    public class NullReferenceChecker
     {
-        try
+        public static bool HasBrokenObj<T>(List<T> list)
+        where T : MonoBehaviour
         {
-            list.Any(x => x.gameObject);
+            try
+            {
+                list.Any(x => x.gameObject);
+            }
+            catch (MissingReferenceException)
+            {
+                return true;
+            }
+
+
+            return false;
         }
-        catch (MissingReferenceException)
+
+        public static bool HasNullObj<T>(params T[] objs)
+        where T : MonoBehaviour
         {
-            return true;
+            try
+            {
+                foreach (T obj in objs)
+                {
+                    var a = obj.gameObject;
+                }
+
+            }
+            catch (NullReferenceException)
+            {
+                return true;
+            }
+
+            return false;
         }
 
-
-        return false;
-    }
-
-    public static bool HasNullObj<T>(params T[] objs)
-    where T : MonoBehaviour
-    {
-        try
+        public static bool HasBrokenObj<T>(T obj)
+        where T : MonoBehaviour
         {
-            foreach (T obj in objs)
+            try
             {
                 var a = obj.gameObject;
             }
-
+            catch
+            {
+                return true;
+            }
+            return false;
         }
-        catch(NullReferenceException)
-        {
-            return true;
-        }
-
-        return false;
     }
 
-    public static bool HasBrokenObj<T>(T obj)
-    where T : MonoBehaviour
-    {
-        try
-        {
-            var a = obj.gameObject;
-        }
-        catch
-        {
-            return true;
-        }
-        return false;
-    }
 }

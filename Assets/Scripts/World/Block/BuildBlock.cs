@@ -1,73 +1,81 @@
 using UnityEngine;
 using System.Collections.Generic;
+using ObserverPattern;
+using ModulePattern;
 
-/// <summary>
-/// 配置可能なブロック。
-/// Mediatorを継承したほうがいろいろと楽になるが
-/// このクラスを使うMediatorを継承すべきか検討中
-/// 設計を変えるときはブランチ切ってね
-/// </summary>
-public abstract class BuildBlock:MonoBehaviour,ISubject<ModuleState>
+using World.ObserverPattern;
+
+namespace World.Block
 {
-    public abstract BlockType type{get;}
-    protected BuildBlockMediator _mediator;
-
-    void Start()
-    {
-        _mediator = new BuildBlockMediator();
-    }
-
-
     /// <summary>
-    /// working:レーダーなどがすべて動いている状態
-    /// ready:可視だがレーダーなどは動いていない
-    /// sleeping:不可視
+    /// 配置可能なブロック。
+    /// Mediatorを継承したほうがいろいろと楽になるが
+    /// このクラスを使うMediatorを継承すべきか検討中
+    /// 設計を変えるときはブランチ切ってね
     /// </summary>
-    /// <value></value>
-    public ModuleState state{get;private set;}
-
-    //レーダーなどを動かす
-    public void Activate()
+    public abstract class BuildBlock : MonoBehaviour, ISubject<ModuleState>
     {
-        state = ModuleState.working;
-        _mediator.OnNotice<ModuleState>(this);
+        public abstract BlockType type { get; }
+        protected BuildBlockMediator _mediator;
+
+        protected virtual void Start()
+        {
+            _mediator = new BuildBlockMediator();
+            gameObject.layer = LayerMask.NameToLayer("Block");
+        }
+
+
+        /// <summary>
+        /// working:レーダーなどがすべて動いている状態
+        /// ready:可視だがレーダーなどは動いていない
+        /// sleeping:不可視
+        /// </summary>
+        /// <value></value>
+        public ModuleState state { get; private set; }
+
+        //レーダーなどを動かす
+        public void Activate()
+        {
+            state = ModuleState.working;
+            _mediator.OnNotice<ModuleState>(this);
+        }
+
+        public void Disactivate()
+        {
+            state = ModuleState.ready;
+            _mediator.OnNotice<ModuleState>(this);
+        }
+
+
+
+        public void Show()
+        {
+            state = ModuleState.ready;
+            gameObject.layer = LayerMask.NameToLayer("Block");
+        }
+
+        public void Hide()
+        {
+            state = ModuleState.sleeping;
+            gameObject.layer = LayerMask.NameToLayer("Invisible");
+        }
+
+
+        public bool AddObserver(IObserver<ModuleState> obs)
+        {
+            return _mediator.AddObserver(obs);
+        }
+
+        public bool RemoveObserver(IObserver<ModuleState> obs)
+        {
+            return _mediator.AddObserver(obs);
+        }
     }
 
-    public void Disactivate()
+    public enum BlockType
     {
-        state = ModuleState.ready;
-        _mediator.OnNotice<ModuleState>(this);
+        def,
+        standard,
+        stairs
     }
-
-
-
-    public void Show()
-    {
-        state = ModuleState.ready;
-        gameObject.layer = LayerMask.NameToLayer("Block");
-    }
-
-    public void Hide()
-    {
-        state = ModuleState.sleeping;
-        gameObject.layer = LayerMask.NameToLayer("Invisible");
-    }
-
-
-    public bool AddObserver(IObserver<ModuleState> obs)
-    {
-        return _mediator.AddObserver(obs);
-    }
-
-    public bool RemoveObserver(IObserver<ModuleState> obs)
-    {
-        return _mediator.AddObserver(obs);
-    }
-}
-
-public enum BlockType
-{
-    def,
-    standard,
-    stairs
 }

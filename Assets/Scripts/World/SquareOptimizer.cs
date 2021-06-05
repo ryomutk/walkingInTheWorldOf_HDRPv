@@ -1,73 +1,83 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
+using Utility;
 
-[RequireComponent(typeof(Square))]
-public class SquareOptimizer : MonoBehaviour
+using World.Wrapper;
+
+namespace World.Visual
 {
-    Square self;
-    [SerializeField] bool hideOnStart = true;
-    System.Action<string> log;
 
-    void Start()
+    [RequireComponent(typeof(Square))]
+    public class SquareOptimizer : MonoBehaviour
     {
-        self = GetComponent<Square>();
-        log = (x) => LogWriter.Log(x,"SquareLog");
+        Square self;
+        [SerializeField] bool hideOnStart = true;
+        Utility.Logger logger;
 
-        log("________________LOG START__________________________");
-
-        if (hideOnStart)
+        void Start()
         {
-            log(self.name + ":HIDE BEGIN");
+            self = GetComponent<Square>();
+            logger = new Utility.Logger("SquareLog","SquareOptimizer");
+
+            logger.Log("________________LOG START__________________________");
+
+            if (hideOnStart)
+            {
+                logger.Log(self.name + ":HIDE BEGIN");
+                Hide();
+            }
+        }
+
+        public SquareOptimizer(Square square)
+        {
+            self = GetComponent<Square>();
+        }
+
+
+        void OnTriggerEnter(Collider other)
+        {
+            if (other.gameObject.layer == LayerMask.NameToLayer("Player"))
+            {
+                Show();
+            }
+        }
+
+        void OnTriggerExit(Collider other)
+        {
+            if (other.gameObject.layer == LayerMask.NameToLayer("Player"))
+            {
+                Hide();
+            }
+        }
+
+        public void Show()
+        {
+            self.structure.Show();
+        }
+
+        public void Hide()
+        {
+            logger.Log(self.name + ":" + self.structure.name);
+            if (self.structure != null)
+            {
+                self.structure.Hide();
+            }
+            else
+            {
+                StartCoroutine(ThenHide());
+            }
+        }
+
+        IEnumerator ThenHide()
+        {
+            logger.Log(self.name + ":HIDE WAIT");
+            yield return new WaitWhile(() => self.structure == null);
+            logger.Log(self.name + ":HIDDEN");
             Hide();
         }
-    }
 
-    public SquareOptimizer(Square square)
-    {
-        self = GetComponent<Square>();
-    }
-
-
-    void OnTriggerEnter(Collider other)
-    {
-        if (other.gameObject.layer == LayerMask.NameToLayer("Player"))
-        {
-            Show();
-        }
-    }
-
-    void OnTriggerExit(Collider other)
-    {
-        if (other.gameObject.layer == LayerMask.NameToLayer("Player"))
-        {
-            Hide();
-        }
-    }
-
-    public void Show()
-    {
-        self.structure.Show();
-    }
-
-    public void Hide()
-    {
-        log(self.name +":"+ self.structure.name);
-        if (self.structure != null)
-        {
-            self.structure.Hide();
-        }
-        else{
-            StartCoroutine(ThenHide());
-        }
-    }
-
-    IEnumerator ThenHide()
-    {
-        log(self.name + ":HIDE WAIT");
-        yield return new WaitWhile(()=>self.structure == null);
-        log(self.name + ":HIDDEN");
-        Hide();
     }
 
 }

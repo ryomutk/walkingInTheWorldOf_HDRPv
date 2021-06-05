@@ -2213,7 +2213,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a5e8627040ecaa4084fce51ac91737d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Range: {x: 15, y: 10, z: 15}
+  Range: {x: 15, y: 1, z: 15}
   setRandom: 0
 --- !u!4 &1615976074
 Transform:
@@ -2966,6 +2966,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 203675884176471978, guid: 40dd9cdfc551aab4491a26f01217b875, type: 3}
+      propertyPath: moveDuration
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 203675884176471979, guid: 40dd9cdfc551aab4491a26f01217b875, type: 3}
+      propertyPath: top
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 203675884176471979, guid: 40dd9cdfc551aab4491a26f01217b875, type: 3}
+      propertyPath: bottom
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 203675884176471979, guid: 40dd9cdfc551aab4491a26f01217b875, type: 3}
+      propertyPath: duration
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 40dd9cdfc551aab4491a26f01217b875, type: 3}
 --- !u!1001 &2903221003141924835
@@ -3022,6 +3038,14 @@ PrefabInstance:
     - target: {fileID: 2903221002185015780, guid: 06e6e0aa166983e46ad91d541dde31db, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2903221002185015782, guid: 06e6e0aa166983e46ad91d541dde31db, type: 3}
+      propertyPath: reqSqNum
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2903221002185015782, guid: 06e6e0aa166983e46ad91d541dde31db, type: 3}
+      propertyPath: reqStrNum
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 06e6e0aa166983e46ad91d541dde31db, type: 3}

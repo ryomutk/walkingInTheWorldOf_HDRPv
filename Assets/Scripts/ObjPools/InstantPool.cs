@@ -1,92 +1,97 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using ModulePattern;
 
-//クラス単位での管理が不便な場合に使うObjPool。
-//同じクラスのプールを(prefab毎とかで)いくつでも作成できる代わりに、
-//singletonでのインターフェイスは確保できない(作成時に返される参照でしかアクセスできない。) 
-public class InstantPool<T> : IPoolObject<T>
-where T : MonoBehaviour
+namespace Utility.ObjPool
 {
-    T objPrefab = null;
-    public ModuleState state { get { return _state; } }
-    ModuleState _state;
-    Transform parent;
-    List<T> objList;
-    Transform transform;
-
-    public InstantPool(Transform trans = null) : base()
+    //クラス単位での管理が不便な場合に使うObjPool。
+    //同じクラスのプールを(prefab毎とかで)いくつでも作成できる代わりに、
+    //singletonでのインターフェイスは確保できない(作成時に返される参照でしかアクセスできない。) 
+    public class InstantPool<T> : IPoolObject<T>
+    where T : MonoBehaviour
     {
-        transform = trans;
-        objList = new List<T>();
-    }
+        T objPrefab = null;
+        public ModuleState state { get { return _state; } }
+        ModuleState _state;
+        Transform parent;
+        List<T> objList;
+        Transform transform;
 
-    public bool CreatePool(T obj, int num)
-    {
-        if (num >= 0)
+        public InstantPool(Transform trans = null) : base()
         {
-            parent = new GameObject(obj.name + "Pool").transform;
-            if (transform != null)
+            transform = trans;
+            objList = new List<T>();
+        }
+
+        public bool CreatePool(T obj, int num)
+        {
+            if (num >= 0)
             {
-                parent.SetParent(transform);
-            }
-            
-            objPrefab = obj;
-            _state = ModuleState.working;
+                parent = new GameObject(obj.name + "Pool").transform;
+                if (transform != null)
+                {
+                    parent.SetParent(transform);
+                }
 
-            for (int i = 0; i < num; i++)
+                objPrefab = obj;
+                _state = ModuleState.working;
+
+                for (int i = 0; i < num; i++)
+                {
+                    CreateObj();
+                }
+
+                _state = ModuleState.ready;
+            }
+            return false;
+        }
+
+
+        public T GetObj(bool activate = true)
+        {
+            T returnObj = null;
+            foreach (T obj in objList)
             {
-                CreateObj();
+                if (!obj.gameObject.activeSelf)
+                {
+                    returnObj = obj;
+                    break;
+                }
             }
 
-            _state = ModuleState.ready;
-        }
-        return false;
-    }
-
-
-    public T GetObj(bool activate = true)
-    {
-        T returnObj = null;
-        foreach (T obj in objList)
-        {
-            if (!obj.gameObject.activeSelf)
+            if (returnObj == null)
             {
-                returnObj = obj;
-                break;
+                returnObj = CreateObj();
             }
+
+            if (activate)
+            {
+
+                returnObj.gameObject.SetActive(true);
+            }
+
+            return returnObj;
         }
 
-        if (returnObj == null)
+        T CreateObj()
         {
-            returnObj = CreateObj();
+            if (_state != ModuleState.disabled)
+            {
+                var clone = MonoBehaviour.Instantiate(objPrefab, parent);
+                clone.name += objList.Count;
+                clone.transform.localPosition = Vector2.zero;
+                objList.Add(clone);
+                clone.gameObject.SetActive(false);
+                return clone;
+            }
+            return null;
         }
 
-        if (activate)
+        ~InstantPool()
         {
-
-            returnObj.gameObject.SetActive(true);
+            MonoBehaviour.Destroy(parent);
         }
-
-        return returnObj;
     }
 
-    T CreateObj()
-    {
-        if (_state != ModuleState.disabled)
-        {
-            var clone = MonoBehaviour.Instantiate(objPrefab, parent);
-            clone.name += objList.Count;
-            clone.transform.localPosition = Vector2.zero;
-            objList.Add(clone);
-            clone.gameObject.SetActive(false);
-            return clone;
-        }
-        return null;
-    }
-
-    ~InstantPool()
-    {
-        MonoBehaviour.Destroy(parent);
-    }
 }

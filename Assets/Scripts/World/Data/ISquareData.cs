@@ -1,9 +1,12 @@
 using UnityEngine;
 
-public interface IRectangularData
+namespace World.Data.Geometry
 {
-    Vector3Int rotationEuler{get;}
-    Vector3 center{get;}
-    Vector3 halfExtent{get;}
-    Quaternion rotation{get;}
+    public interface IRectangularData
+    {
+        Vector3Int rotationEuler { get; }
+        Vector3 center { get; }
+        Vector3 halfExtent { get; }
+        Quaternion rotation { get; }
+    }
 }

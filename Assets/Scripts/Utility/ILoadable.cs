@@ -1,12 +1,15 @@
 using System.Collections.Generic;
 
-public interface IRequireToLoad:ILoad
+namespace Utility
 {
-    List<ILoad> requireComponentList{get;}
-    void StartLoad();
-}
+    public interface IRequireToLoad : ILoad
+    {
+        List<ILoad> requireComponentList { get; }
+        void StartLoad();
+    }
 
-public interface ILoad
-{
-    bool loaded{get;}
+    public interface ILoad
+    {
+        bool loaded { get; }
+    }
 }

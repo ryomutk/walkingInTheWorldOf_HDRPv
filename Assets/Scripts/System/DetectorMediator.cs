@@ -1,27 +1,30 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using World.Rader;
 
-public class DetectorMediator<T> : MediatorBase<DetectorBehaviour<T>>
+namespace ObserverPattern
 {
-    protected override bool ConvertNotice(DetectorBehaviour<T> source, IObserverBase observer)
+    public class DetectorMediator<T> : MediatorBase<DetectorBehaviour<T>>
     {
-        switch (observer)
+        protected override bool ConvertNotice(DetectorBehaviour<T> source, IObserverBase observer)
         {
-            case IObserver<GameObject> obs1:
-                obs1.OnNotice(source.gameObject);
+            switch (observer)
+            {
+                case IObserver<GameObject> obs1:
+                    obs1.OnNotice(source.gameObject);
+                    return true;
+            }
+
+            if (simpleNoticedList.Contains(observer))
+            {
+                observerList.Remove(observer);
+                logger.Log("!ATTENTION! OBSERVER" + observer + "IS NOW ONLY FOR SIMPLE");
                 return true;
+            }
+
+            logger.LogError("Notice method for TYPE:" + observer.GetType() + "is not Implemented!");
+
+            return false;
         }
-
-        if (simpleNoticedList.Contains(observer))
-        {
-            observerList.Remove(observer);
-            logger.Log("!ATTENTION! OBSERVER"+observer+"IS NOW ONLY FOR SIMPLE");
-            return true;
-        }
-
-        logger.LogError("Notice method for TYPE:" + observer.GetType() + "is not Implemented!");
-
-        return false;
     }
+
 }

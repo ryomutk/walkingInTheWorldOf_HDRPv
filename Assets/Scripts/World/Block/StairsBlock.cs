@@ -2,7 +2,10 @@ using UnityEngine;
 using System.Collections.Generic;
 
 
-public class StairsBlock:BuildBlock
+namespace World.Block
 {
-    public override BlockType type{get{return BlockType.stairs;}}
+    public class StairsBlock : BuildBlock
+    {
+        public override BlockType type { get { return BlockType.stairs; } }
+    }
 }

@@ -13,13 +13,15 @@ public enum MotionState
     Active = 1 << 6
 }
 
-
-//最小限のstate
-public enum ModuleState
+namespace ModulePattern
 {
-    disabled,      //電源がオフ
-    sleeping,      //電源オン受け付け不可
-    ready,         //受付中
-    working,       //仕事中
-    compleate      //一個前の仕事が完了
+    //最小限のstate
+    public enum ModuleState
+    {
+        disabled,      //電源がオフ
+        sleeping,      //電源オン受け付け不可
+        ready,         //受付中
+        working,       //仕事中
+        compleate      //一個前の仕事が完了
+    }
 }

@@ -1,48 +1,51 @@
 using UnityEngine;
+using World.Math;
 
-
-public class Doorway : MonoBehaviour
+namespace World.Path
 {
-    /// <summary>
-    /// 空いてるワールド座標上の向き。
-    /// CheckAvalableDirectionを呼ぶたびに更新される。
-    /// 呼ばれる前はnullなので注意
-    /// </summary>
-    /// <value></value>
-    public Vector3Int? avalableDirection { get { return _direction; } }
-    protected Vector3Int? _direction = null;
-
-    
-    /// <summary>
-    /// 空いているかを確認。
-    /// </summary>
-    /// <returns></returns>
-
-    public virtual Vector3Int? CheckAvalableDirection()
+    public class Doorway : MonoBehaviour
     {
-        BoxCollider collider = GetComponent<BoxCollider>();
-        collider.enabled = false;
+        /// <summary>
+        /// 空いてるワールド座標上の向き。
+        /// CheckAvalableDirectionを呼ぶたびに更新される。
+        /// 呼ばれる前はnullなので注意
+        /// </summary>
+        /// <value></value>
+        public Vector3Int? avalableDirection { get { return _direction; } }
+        protected Vector3Int? _direction = null;
 
-        foreach (var direction in MathOfWorld.directions)
+
+        /// <summary>
+        /// 空いているかを確認。
+        /// </summary>
+        /// <returns></returns>
+
+        public virtual Vector3Int? CheckAvalableDirection()
         {
-            if(direction == Vector3Int.down || direction == Vector3Int.up)
-            {
-                continue;
-            }
-            else if (!Physics.Raycast(transform.position, direction, 1, LayerMask.GetMask("Block")))
-            
-            {
-                _direction = direction;
-                break;
-            }
-        }
-        collider.enabled = true;
+            BoxCollider collider = GetComponent<BoxCollider>();
+            collider.enabled = false;
 
-        if (_direction != null)
-        {
-            return _direction;
-        }
+            foreach (var direction in MathOfWorld.directions)
+            {
+                if (direction == Vector3Int.down || direction == Vector3Int.up)
+                {
+                    continue;
+                }
+                else if (!Physics.Raycast(transform.position, direction, 1, LayerMask.GetMask("Block")))
 
-        return null;
+                {
+                    _direction = direction;
+                    break;
+                }
+            }
+            collider.enabled = true;
+
+            if (_direction != null)
+            {
+                return _direction;
+            }
+
+            return null;
+        }
     }
 }

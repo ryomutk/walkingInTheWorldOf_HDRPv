@@ -2,6 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+namespace ObserverPattern
+{
+    
 public class SubjectBehaviour<T> : MonoBehaviour,ISubject<T>
 {
     List<IObserver<T>> observerList = new List<IObserver<T>>();
@@ -33,4 +36,6 @@ public class SubjectBehaviour<T> : MonoBehaviour,ISubject<T>
     }
 
     
+}
+
 }

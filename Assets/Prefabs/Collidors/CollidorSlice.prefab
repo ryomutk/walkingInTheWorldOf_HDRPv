@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5250130592004763886}
   - component: {fileID: 5250130592004763887}
   - component: {fileID: 5250130592004763884}
-  m_Layer: 8
+  m_Layer: 13
   m_Name: ConcreteBlock (97)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -189,7 +189,7 @@ GameObject:
   - component: {fileID: 5250130593046368615}
   - component: {fileID: 5250130593046368612}
   - component: {fileID: 5250130593046368613}
-  m_Layer: 8
+  m_Layer: 13
   m_Name: ConcreteBlock (44)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -298,7 +298,7 @@ GameObject:
   - component: {fileID: 5250130593220727614}
   - component: {fileID: 5250130593220727615}
   - component: {fileID: 5250130593220727612}
-  m_Layer: 8
+  m_Layer: 13
   m_Name: ConcreteBlock (72)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -407,7 +407,7 @@ GameObject:
   - component: {fileID: 5250130593326722055}
   - component: {fileID: 5250130593326722052}
   - component: {fileID: 5250130593326722053}
-  m_Layer: 8
+  m_Layer: 13
   m_Name: ConcreteBlock (45)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -516,7 +516,7 @@ GameObject:
   - component: {fileID: 5250130593446309939}
   - component: {fileID: 5250130593446309936}
   - component: {fileID: 5250130593446309937}
-  m_Layer: 8
+  m_Layer: 13
   m_Name: ConcreteBlock (47)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -625,7 +625,7 @@ GameObject:
   - component: {fileID: 5250130594088105410}
   - component: {fileID: 5250130594088105411}
   - component: {fileID: 5250130594088105408}
-  m_Layer: 8
+  m_Layer: 13
   m_Name: ConcreteBlock (46)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -728,9 +728,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5250130592178460669}
     m_Modifications:
+    - target: {fileID: 1923115917259071020, guid: 6206a36e01912304fa4646970cab120d, type: 3}
+      propertyPath: m_Layer
+      value: 13
+      objectReference: {fileID: 0}
     - target: {fileID: 7439256488931174133, guid: 6206a36e01912304fa4646970cab120d, type: 3}
       propertyPath: m_Name
       value: Fence (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439256488931174133, guid: 6206a36e01912304fa4646970cab120d, type: 3}
+      propertyPath: m_Layer
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 7815536389301435471, guid: 6206a36e01912304fa4646970cab120d, type: 3}
       propertyPath: m_RootOrder
@@ -790,9 +798,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5250130592178460669}
     m_Modifications:
+    - target: {fileID: 1923115917259071020, guid: 6206a36e01912304fa4646970cab120d, type: 3}
+      propertyPath: m_Layer
+      value: 13
+      objectReference: {fileID: 0}
     - target: {fileID: 7439256488931174133, guid: 6206a36e01912304fa4646970cab120d, type: 3}
       propertyPath: m_Name
       value: Fence
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439256488931174133, guid: 6206a36e01912304fa4646970cab120d, type: 3}
+      propertyPath: m_Layer
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 7815536389301435471, guid: 6206a36e01912304fa4646970cab120d, type: 3}
       propertyPath: m_RootOrder
@@ -858,7 +874,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4010601797432201483, guid: fb33e1d36c59d5a48b368a75486c5619, type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 4010601797432201486, guid: fb33e1d36c59d5a48b368a75486c5619, type: 3}
       propertyPath: m_Materials.Array.data[0]

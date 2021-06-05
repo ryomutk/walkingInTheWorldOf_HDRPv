@@ -1,8 +1,10 @@
 using DG.Tweening;
 using UnityEngine;
 using System.Collections;
+using Utility;
+using ModulePattern;
 
-public class UFOMoveMotion : MonoBehaviour
+public class UFOMoveMotion : MonoBehaviour, IMoveMotion
 {
     [SerializeField] float duration = 1;
     [SerializeField] Ease inEase = Ease.InSine;
@@ -24,7 +26,7 @@ public class UFOMoveMotion : MonoBehaviour
 
     void Start()
     {
-        log = (x) => LogWriter.Log("UFO MOTION: " + x,"TweenLog");
+        log = (x) => LogWriter.Log("UFO MOTION: " + x, "TweenLog");
         floatMotion = GetComponent<FloatMotion>();
     }
 
@@ -32,7 +34,7 @@ public class UFOMoveMotion : MonoBehaviour
 
 
     [Sirenix.OdinInspector.Button]
-    public void Move(Vector3 direction)
+    public bool Move(Vector3 direction)
     {
         if (moveTw == null || !moveTw.active)
         {
@@ -44,27 +46,28 @@ public class UFOMoveMotion : MonoBehaviour
         {
             StartCoroutine(ContinuousRoutine(direction));
         }
+
+        return true;
     }
 
     /// <summary>
     /// 初動とかないやつ
     /// </summary>
     /// <param name="direction"></param>
-    public Tween Slide(Vector3 direction, bool activate = true)
+    public bool Slide(Vector3 direction)
     {
         var tw = transform.parent.DOMove(direction, moveDuration).SetEase(Ease.Linear).SetRelative();
 
-        if (activate)
-        {
-            tw.Play();
-        }
 
-        return tw;
+        tw.Play();
+
+
+        return true;
     }
 
 
     [Sirenix.OdinInspector.Button]
-    public void Stop(bool exit = true)
+    public bool Stop()
     {
         log("STOP COMMAND");
         if (moveTw != null && moveTw.active && !stopping)
@@ -72,10 +75,10 @@ public class UFOMoveMotion : MonoBehaviour
             StartCoroutine(StopRoutine());
         }
 
-        if (exit)
-        {
-            Exit();
-        }
+        Exit();
+
+
+        return false;
     }
 
     IEnumerator StopRoutine()

@@ -2,29 +2,35 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class Singleton<T> : MonoBehaviour
-where T : Singleton<T>
+namespace Utility
 {
-    public static T instance = null;
-
-    protected virtual void Awake()
+    public abstract class Singleton<T> : MonoBehaviour
+    where T : Singleton<T>
     {
-        CreateSingleton();   
-    }
+        public static T instance = null;
 
-    void CreateSingleton(){
-        if(instance == null){
-            instance = this as T;
+        protected virtual void Awake()
+        {
+            CreateSingleton();
         }
-        else{
-            Debug.LogWarning( this.GetType() + "is singleton! now been killed");
-            Destroy(this.gameObject);
+
+        void CreateSingleton()
+        {
+            if (instance == null)
+            {
+                instance = this as T;
+            }
+            else
+            {
+                Debug.LogWarning(this.GetType() + "is singleton! now been killed");
+                Destroy(this.gameObject);
+            }
         }
-    }
 
-    void OnDestroy()
-    {
-        instance = null;
-    }
+        void OnDestroy()
+        {
+            instance = null;
+        }
 
+    }
 }

@@ -1,31 +1,36 @@
 using UnityEngine;
 using System.Collections.Generic;
-using System.Linq;
+using World.Building;
 
-[CreateAssetMenu]
-public class StructureHolder:ScriptableObject
+
+
+namespace World.Data
 {
-    [SerializeField] List<Structure> structureList; 
-    public int length{get{return structureList.Count;}}
-
-
-    public Structure GetStructure(string name)
+    [CreateAssetMenu]
+    public class StructureHolder : ScriptableObject
     {
-        return structureList.Find(x => x.name == name);
+        [SerializeField] List<Structure> structureList;
+        public int length { get { return structureList.Count; } }
+
+
+        public Structure GetStructure(string name)
+        {
+            return structureList.Find(x => x.name == name);
+        }
+
+        public Structure GetStructure(int id)
+        {
+            return structureList[id];
+        }
+
+        public int GetID(Structure str)
+        {
+            return structureList.IndexOf(str);
+        }
     }
 
-    public Structure GetStructure(int id)
+    public enum StructureType
     {
-        return structureList[id];
+        room
     }
-
-    public int GetID(Structure str)
-    {
-        return structureList.IndexOf(str);
-    }
-}
-
-public enum StructureType
-{
-    room
 }

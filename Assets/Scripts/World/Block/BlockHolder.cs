@@ -1,33 +1,37 @@
 using UnityEngine;
 using System.Linq;
 using System.Collections.Generic;
+using System;
+using World.Block;
 
-
-/// <summary>
-/// ブロックのプレハブを持ってるクラス
-/// </summary>
-[CreateAssetMenu]
-public class BlockHolder : ScriptableObject
+namespace World.Data
 {
-    public BlockType type { get { return _holdType; } }
-    [SerializeField] List<BuildBlock> blockPrefs;
-    [SerializeField] BlockType _holdType;
-
-    public BuildBlock GetBlock(int id)
+    /// <summary>
+    /// ブロックのプレハブを持ってるクラス
+    /// </summary>
+    [CreateAssetMenu]
+    public class BlockHolder : ScriptableObject
     {
-        try
-        {
-            return blockPrefs[id];
-        }
-        catch(System.IndexOutOfRangeException)
-        {
-            Debug.LogWarning("no block has id" + id);
-            return blockPrefs[0];
-        }
-    }
+        public BlockType type { get { return _holdType; } }
+        [SerializeField] List<BuildBlock> blockPrefs;
+        [SerializeField] BlockType _holdType;
 
-    public int GetId(BuildBlock build)
-    {
-        return blockPrefs.IndexOf(build);
+        public BuildBlock GetBlock(int id)
+        {
+            try
+            {
+                return blockPrefs[id];
+            }
+                catch (IndexOutOfRangeException)
+            {
+                Debug.LogWarning("no block has id" + id);
+                return blockPrefs[0];
+            }
+        }
+
+        public int GetId(BuildBlock build)
+        {
+            return blockPrefs.IndexOf(build);
+        }
     }
 }

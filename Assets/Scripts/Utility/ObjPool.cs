@@ -1,26 +1,32 @@
 ﻿using UnityEngine;
+using Utility;
 
-//普通のobjPool
-//InstantPool
-public abstract class ObjPool<T> : Singleton<ObjPool<T>>, IPoolObject<T>
-where T : MonoBehaviour
+namespace Utility.ObjPool
 {
-    InstantPool<T> pool;
-    protected abstract Transform poolTransform{get;}
 
-    protected override void Awake()
+    //普通のobjPool
+    //InstantPool
+    public abstract class ObjPool<T> : Singleton<ObjPool<T>>, IPoolObject<T>
+    where T : MonoBehaviour
     {
-        base.Awake();
-        pool = new InstantPool<T>(poolTransform);
+        InstantPool<T> pool;
+        protected abstract Transform poolTransform { get; }
+
+        protected override void Awake()
+        {
+            base.Awake();
+            pool = new InstantPool<T>(poolTransform);
+        }
+
+        public bool CreatePool(T obj, int num)
+        {
+            return pool.CreatePool(obj, num);
+        }
+
+        public T GetObj(bool activate = true)
+        {
+            return pool.GetObj(activate);
+        }
     }
 
-    public bool CreatePool(T obj, int num)
-    {
-        return pool.CreatePool(obj, num);
-    }
-
-    public T GetObj(bool activate = true)
-    {
-        return pool.GetObj(activate);
-    }
 }

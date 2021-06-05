@@ -1,76 +1,82 @@
 using UnityEngine;
+using World.Data.Geometry;
+using World.Wrapper;
 
-/// <summary>
-/// このゲーム内で必要な形でboxをcastせしもの
-/// </summary>
-public class SquareFinder
+namespace World.Rader.Core
 {
-    SquareMetaData castSquare;
-
-    public SquareFinder()
-    {
-        castSquare = new SquareMetaData();
-        castSquare.MapSquare(Vector3Int.one, Vector3Int.zero, Vector3Int.zero);
-    }
 
     /// <summary>
-    /// 直線上にcastし、最初に見つけたのを返す。
+    /// このゲーム内で必要な形でboxをcastせしもの
     /// </summary>
-    /// <param name="originCoords"></param>
-    /// <param name="direction"></param>
-    /// <param name="maxCount"></param>
-    /// <returns></returns>
-    public Square StraightFind(Vector3Int originCoords, Vector3Int direction, int maxCount = 10, Collider ignore = null)
+    public class SquareFinder
     {
-        int count = 0;
-        Collider collider;
+        SquareMetaData castSquare;
 
-        do
+        public SquareFinder()
         {
-            count++;
-            collider = Cast(originCoords + direction * count);
+            castSquare = new SquareMetaData();
+            castSquare.MapSquare(Vector3Int.one, Vector3Int.zero, Vector3Int.zero);
+        }
 
+        /// <summary>
+        /// 直線上にcastし、最初に見つけたのを返す。
+        /// </summary>
+        /// <param name="originCoords"></param>
+        /// <param name="direction"></param>
+        /// <param name="maxCount"></param>
+        /// <returns></returns>
+        public Square StraightFind(Vector3Int originCoords, Vector3Int direction, int maxCount = 10, Collider ignore = null)
+        {
+            int count = 0;
+            Collider collider;
 
-            if (count >= maxCount)
+            do
             {
-                break;
+                count++;
+                collider = Cast(originCoords + direction * count);
+
+
+                if (count >= maxCount)
+                {
+                    break;
+                }
             }
-        }
-        while (collider == null || collider == ignore);
+            while (collider == null || collider == ignore);
 
-        if (collider != null)
+            if (collider != null)
+            {
+                var sqr = collider.GetComponent<Square>();
+                return sqr;
+            }
+
+            return null;
+        }
+
+        /// <summary>
+        /// 指定したcoordinateの情報を取得
+        /// </summary>
+        /// <param name="coordinate"></param>
+        /// <returns></returns>
+        public Collider Cast(Vector3Int coordinate)
         {
-            var sqr = collider.GetComponent<Square>();
-            return sqr;
+            Collider[] hit = new Collider[1];
+
+            castSquare.SetPosition(coordinate);
+
+            Physics.OverlapBoxNonAlloc(castSquare.center, castSquare.halfExtent, hit, castSquare.rotation, LayerMask.GetMask("Square"));
+
+
+            return hit[0];
         }
 
-        return null;
-    }
-
-    /// <summary>
-    /// 指定したcoordinateの情報を取得
-    /// </summary>
-    /// <param name="coordinate"></param>
-    /// <returns></returns>
-    public Collider Cast(Vector3Int coordinate)
-    {
-        Collider[] hit = new Collider[1];
-
-        castSquare.SetPosition(coordinate);
-
-        Physics.OverlapBoxNonAlloc(castSquare.center, castSquare.halfExtent, hit, castSquare.rotation, LayerMask.GetMask("Square"));
-
-
-        return hit[0];
-    }
-
-    /// <summary>
-    /// メタスクエアの表示する範囲をチェック。
-    /// </summary>
-    /// <param name="metaSqr"></param>
-    /// <returns></returns>
-    public bool CheckSquare(IRectangularData metaSqr)
-    {
-        return !Physics.CheckBox(metaSqr.center, metaSqr.halfExtent, metaSqr.rotation, LayerMask.GetMask("Square"));
+        /// <summary>
+        /// メタスクエアの表示する範囲をチェック。
+        /// </summary>
+        /// <param name="metaSqr"></param>
+        /// <returns></returns>
+        public bool CheckSquare(IRectangularData metaSqr)
+        {
+            return !Physics.CheckBox(metaSqr.center, metaSqr.halfExtent, metaSqr.rotation, LayerMask.GetMask("Square"));
+        }
     }
 }

@@ -1,10 +1,13 @@
-public interface IObserverBase{}
-public interface IObserver<T>:IObserverBase
+namespace ObserverPattern
 {
-    bool OnNotice(T arg);
-}
+    public interface IObserverBase { }
+    public interface IObserver<T> : IObserverBase
+    {
+        bool OnNotice(T arg);
+    }
 
-public interface IObserver:IObserverBase
-{
-    bool OnNotice();
+    public interface IObserver : IObserverBase
+    {
+        bool OnNotice();
+    }
 }

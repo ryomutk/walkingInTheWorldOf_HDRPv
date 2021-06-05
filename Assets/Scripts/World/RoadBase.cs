@@ -1,49 +1,52 @@
 using UnityEngine;
 
-public abstract class RoadBase : Structure, IRoad
+namespace World.Building
 {
-    public Vector3Int path { get { return _path; } }
-    [SerializeField] protected Vector3Int _path;
-
-    //その道の曲がり属性。right,leftまたはnull(まっすぐな場合)が返ります
-    public Direction? turn
+    public abstract class RoadBase : Structure
     {
-        get
+        public Vector3Int path { get { return _path; } }
+        [SerializeField] protected Vector3Int _path;
+
+        //その道の曲がり属性。right,leftまたはnull(まっすぐな場合)が返ります
+        public Direction? turn
         {
-            if (path.x > 0)
+            get
             {
-                return Direction.right;
-            }
-            else if (path.x < 0)
-            {
-                return Direction.left;
-            }
-            else
-            {
-                return null;
+                if (path.x > 0)
+                {
+                    return Direction.right;
+                }
+                else if (path.x < 0)
+                {
+                    return Direction.left;
+                }
+                else
+                {
+                    return null;
+                }
             }
         }
-    }
 
-    //その道の上がり下がり属性
-    public Direction? stairs
-    {
-        get
+        //その道の上がり下がり属性
+        public Direction? stairs
         {
-            if (path.y > 0)
+            get
             {
-                return Direction.up;
-            }
-            else if (path.y < 0)
-            {
-                return Direction.down;
-            }
-            else
-            {
-                return null;
+                if (path.y > 0)
+                {
+                    return Direction.up;
+                }
+                else if (path.y < 0)
+                {
+                    return Direction.down;
+                }
+                else
+                {
+                    return null;
+                }
             }
         }
-    }
 
-    public abstract Vector3 GetPath();
+        public abstract Vector3 GetPath();
+    }
 }

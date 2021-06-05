@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System;
+using Utility;
 
 //よく使うコルーチンまとめ
 public class Corutines:Singleton<Corutines>

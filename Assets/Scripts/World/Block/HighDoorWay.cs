@@ -1,48 +1,52 @@
 using UnityEngine;
 using System.Linq;
+using World.Building;
 
-/// <summary>
-/// 建物の上にあるDoorway。
-/// プレイヤーが踏んだ時、空いているということがないようにする
-/// →つまり、ここへあがってくる階段は作れても下る階段は出せないようにする。
-/// かなりアドホック的な感じになるのであれ。
-/// </summary>
-public class HighDoorWay : Doorway
+namespace World.Path
 {
-    Structure parent { get; set; }
-    public bool used { get; private set; }
-
-    void Start()
+    /// <summary>
+    /// 建物の上にあるDoorway。
+    /// プレイヤーが踏んだ時、空いているということがないようにする
+    /// →つまり、ここへあがってくる階段は作れても下る階段は出せないようにする。
+    /// かなりアドホック的な感じになるのであれ。
+    /// </summary>
+    public class HighDoorWay : Doorway
     {
-        parent = GetComponentInParent<Structure>();
-    }
+        Structure parent { get; set; }
+        public bool used { get; private set; }
 
-
-
-    public override Vector3Int? CheckAvalableDirection()
-    {
-        var direction = base.CheckAvalableDirection();
-        if (direction != null)
+        void Start()
         {
-            //もし天井の高さがプレイヤーより低かったら
-            if (Physics.Raycast(transform.position, Vector3.up, Player.size.y, ~LayerMask.GetMask("Player")))
-            {
-                return null;
-            }
-
-
-            //もし誰か使われている人がいるなら
-            if (parent.doorwayList.Any(x => x is HighDoorWay x1 && x1.used))
-            {
-                return null;
-            }
-
-
-            //でなければ
-            used = true;
-            return direction;
+            parent = GetComponentInParent<Structure>();
         }
 
-        return null;
+
+
+        public override Vector3Int? CheckAvalableDirection()
+        {
+            var direction = base.CheckAvalableDirection();
+            if (direction != null)
+            {
+                //もし天井の高さがプレイヤーより低かったら
+                if (Physics.Raycast(transform.position, Vector3.up, Player.size.y, ~LayerMask.GetMask("Player")))
+                {
+                    return null;
+                }
+
+
+                //もし誰か使われている人がいるなら
+                if (parent.doorwayList.Any(x => x is HighDoorWay x1 && x1.used))
+                {
+                    return null;
+                }
+
+
+                //でなければ
+                used = true;
+                return direction;
+            }
+
+            return null;
+        }
     }
 }

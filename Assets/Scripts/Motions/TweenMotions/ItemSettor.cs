@@ -1,5 +1,6 @@
 using UnityEngine;
 using DG.Tweening;
+using Utility;
 
 public class ItemSettor : Singleton<ItemSettor>
 {

@@ -2,46 +2,50 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SubjectBehaviour : MonoBehaviour, ISubject
+namespace ObserverPattern
 {
-    List<IObserver> observerList = new List<IObserver>();
 
-    public virtual bool AddObserver(IObserver observer)
+    public class SubjectBehaviour : MonoBehaviour, ISubject
     {
-        if (!observerList.Contains(observer))
-        {
-            observerList.Add(observer);
-            return true;
-        }
-        return false;
-    }
+        List<IObserver> observerList = new List<IObserver>();
 
-    public virtual bool RemoveObserver(IObserver observer)
-    {
-        if (observerList.Contains(observer))
+        public virtual bool AddObserver(IObserver observer)
         {
-            observerList.Remove(observer);
-            return true;
-        }
-
-        return false;
-    }
-
-    /// <summary>
-    /// どれか一つでも失敗したらfalseを返す
-    /// </summary>
-    /// <returns></returns>
-    public virtual bool Notice()
-    {
-        bool result = true;
-        foreach (var obs in observerList)
-        {
-            if (!obs.OnNotice())
+            if (!observerList.Contains(observer))
             {
-                result = false;
+                observerList.Add(observer);
+                return true;
             }
+            return false;
         }
 
-        return result;
+        public virtual bool RemoveObserver(IObserver observer)
+        {
+            if (observerList.Contains(observer))
+            {
+                observerList.Remove(observer);
+                return true;
+            }
+
+            return false;
+        }
+
+        /// <summary>
+        /// どれか一つでも失敗したらfalseを返す
+        /// </summary>
+        /// <returns></returns>
+        public virtual bool Notice()
+        {
+            bool result = true;
+            foreach (var obs in observerList)
+            {
+                if (!obs.OnNotice())
+                {
+                    result = false;
+                }
+            }
+
+            return result;
+        }
     }
 }

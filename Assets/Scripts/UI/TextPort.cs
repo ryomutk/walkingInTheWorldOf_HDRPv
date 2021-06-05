@@ -2,34 +2,38 @@ using UnityEngine;
 using System.Collections.Generic;
 using UnityEngine.UI;
 
-[RequireComponent(typeof(Text))]
-public class TextPort : MonoBehaviour
+namespace Utility.UI
 {
-    static List<TextPort> portList = new List<TextPort>();
-    Text _text;
-    [SerializeField]int _id;
 
-    void Start()
+    [RequireComponent(typeof(Text))]
+    public class TextPort : MonoBehaviour
     {
-        portList.Add(this);
-        _text = GetComponent<Text>();
-    }
+        static List<TextPort> portList = new List<TextPort>();
+        Text _text;
+        [SerializeField] int _id;
 
-    static public void Display(int id, string text)
-    {
-        try
+        void Start()
         {
-            portList.Find(x => x._id == id)._text.text = text;
+            portList.Add(this);
+            _text = GetComponent<Text>();
         }
-        catch(System.NullReferenceException)
+
+        static public void Display(int id, string text)
         {
-            portList[0]._text.text = text;
+            try
+            {
+                portList.Find(x => x._id == id)._text.text = text;
+            }
+            catch (System.NullReferenceException)
+            {
+                portList[0]._text.text = text;
+            }
         }
-    }
 
 
-    void OnDestroy()
-    {
-        portList.Remove(this);
+        void OnDestroy()
+        {
+            portList.Remove(this);
+        }
     }
 }
