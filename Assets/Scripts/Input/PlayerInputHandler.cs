@@ -20,8 +20,8 @@ public class PlayerInputHandler : SubjectBehaviour
 
     Dictionary<KeyCode, Vector3Int> keyPairs = new Dictionary<KeyCode, Vector3Int>()
     {
-        {forwardKey,MathOfWorld.directions2D[3]},
-        {backKey,MathOfWorld.directions2D[0]},
+        {forwardKey,MathOfWorld.directions[0]},
+        {backKey,MathOfWorld.directions[3]},
         {rightKey,Vector3Int.right},
         {leftKey,Vector3Int.left},
         {floatKey,Vector3Int.up},

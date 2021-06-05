@@ -43,3 +43,1776 @@
 02:16:03  StandardRoadSet: Resources authorized!
 02:39:48  StandardRoadSet: Resources authorized!
 03:25:07  StandardRoadSet: Resources authorized!
+03:43:23  StandardRoadSet: Resources authorized!
+07:04:38  StandardRoadSet: Resources authorized!
+07:35:05  StandardRoadSet: Resources authorized!
+07:58:46  StandardRoadSet: Resources authorized!
+07:58:57  StandardRoadSet: Resources authorized!
+08:00:26  StandardRoadSet: Resources authorized!
+08:03:57  StandardRoadSet: Resources authorized!
+08:04:34  ROAD SERVER: START: creating path set
+                      >PATH:(14, 0, -9)
+                      >FAILED: too steap
+08:04:34  ROAD BUILDER: BUILD START!
+08:05:40  StandardRoadSet: Resources authorized!
+08:09:19  StandardRoadSet: Resources authorized!
+08:09:23  StandardRoadSet: Resources authorized!
+08:12:38  ROAD SERVER: START: creating path set
+                      >PATH:(-5, 18, -13)
+08:12:38              >ERROR!:end directionright is not suitable
+08:12:38  ROAD BUILDER: BUILD START!
+08:22:13  StandardRoadSet: Resources authorized!
+08:23:50  StandardRoadSet: Resources authorized!
+08:25:16  StandardRoadSet: Resources authorized!
+08:26:35  StandardRoadSet: Resources authorized!
+08:30:43  StandardRoadSet: Resources authorized!
+08:30:52  StandardRoadSet: Resources authorized!
+08:53:08  StandardRoadSet: Resources authorized!
+08:54:30  StandardRoadSet: Resources authorized!
+08:55:30  StandardRoadSet: Resources authorized!
+08:59:39  StandardRoadSet: Resources authorized!
+08:59:44  StandardRoadSet: Resources authorized!
+09:01:52  StandardRoadSet: Resources authorized!
+09:13:22  StandardRoadSet: Resources authorized!
+09:14:13  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                      >FAILED: too steap
+09:14:13  ROAD BUILDER: BUILD START!
+09:14:13  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                      >FAILED: too steap
+09:14:13  ROAD BUILDER: BUILD START!
+09:28:30  StandardRoadSet: Resources authorized!
+10:05:28  StandardRoadSet: Resources authorized!
+12:40:31  StandardRoadSet: Resources authorized!
+12:40:36  StandardRoadSet: Resources authorized!
+12:41:19  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+12:41:19              >ERROR:something went wrong in here
+12:41:20  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+12:41:20              >ERROR:something went wrong in here
+12:41:20  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+12:41:20              >ERROR:something went wrong in here
+12:41:20  ROAD SERVER: START: creating path set
+                      >PATH:(0, 5, -5)
+                      >FAILED: too steap
+12:41:20  ROAD SERVER: START: creating path set
+                      >PATH:(0, 5, -5)
+                      >FAILED: too steap
+12:41:25  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+12:41:25              >ERROR:something went wrong in here
+12:41:25  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+12:41:25              >ERROR:something went wrong in here
+12:41:26  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+12:41:26              >ERROR:something went wrong in here
+12:41:27  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+12:41:27              >ERROR:something went wrong in here
+12:41:27  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+12:41:27              >ERROR:something went wrong in here
+12:41:28  ROAD SERVER: START: creating path set
+                      >PATH:(0, 5, -5)
+                      >FAILED: too steap
+12:41:28  ROAD SERVER: START: creating path set
+                      >PATH:(0, 5, -5)
+                      >FAILED: too steap
+12:44:53  StandardRoadSet: Resources authorized!
+12:50:59  StandardRoadSet: Resources authorized!
+12:56:59  StandardRoadSet: Resources authorized!
+12:57:15  StandardRoadSet: Resources authorized!
+12:58:00  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+12:58:00              >ERROR:something went wrong in here
+12:58:01  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+12:58:01              >ERROR:something went wrong in here
+12:58:01  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -5)
+12:58:01              >ERROR:something went wrong in here
+12:58:01  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -5)
+12:58:01              >ERROR:something went wrong in here
+12:58:07  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+12:58:07              >ERROR:something went wrong in here
+12:58:07  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+12:58:07              >ERROR:something went wrong in here
+12:58:08  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+12:58:08              >ERROR:something went wrong in here
+12:58:25  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+12:58:25              >ERROR:something went wrong in here
+12:58:25  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+12:58:25              >ERROR:something went wrong in here
+12:58:25  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+12:58:25              >ERROR:something went wrong in here
+12:58:25  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+12:58:25              >ERROR:something went wrong in here
+12:58:25  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -5)
+12:58:25              >ERROR:something went wrong in here
+12:58:26  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -5)
+12:58:26              >ERROR:something went wrong in here
+12:58:31  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+12:58:31              >ERROR:something went wrong in here
+12:58:31  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+12:58:31              >ERROR:something went wrong in here
+12:58:32  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+12:58:32              >ERROR:something went wrong in here
+01:02:04  StandardRoadSet: Resources authorized!
+01:02:10  StandardRoadSet: Resources authorized!
+01:02:41  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+01:02:41              >ERROR:unknown or undefined RoadType:stairs
+01:02:41  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+01:02:41              >ERROR:unknown or undefined RoadType:stairs
+01:02:42  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+01:02:42              >ERROR:unknown or undefined RoadType:stairs
+01:02:45  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+01:02:45              >ERROR:unknown or undefined RoadType:stairs
+01:04:10  StandardRoadSet: Resources authorized!
+01:04:17  StandardRoadSet: Resources authorized!
+01:04:49  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+01:04:49  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+01:05:42  StandardRoadSet: Resources authorized!
+01:05:46  StandardRoadSet: Resources authorized!
+01:06:08  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:06:08  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:06:08  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:06:08  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:06:09  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, -10)
+01:06:09  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:06:09  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, -10)
+01:06:09  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:06:11  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, -10)
+01:06:11  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:06:11  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, -10)
+01:06:11  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:06:11  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, -10)
+01:06:11  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:06:11  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:06:11  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:06:12  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:06:12  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:06:15  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:06:15  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:06:15  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:06:15  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:06:16  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, -10)
+01:06:16  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:06:19  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:06:19  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:06:19  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:06:19  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:21:20  StandardRoadSet: Resources authorized!
+01:21:25  StandardRoadSet: Resources authorized!
+01:21:55  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:21:55  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:21:56  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, -10)
+01:21:56  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:21:56  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, -10)
+01:21:56  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:21:58  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, -10)
+01:21:58  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:21:59  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:21:59  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:21:59  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:21:59  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:21:59  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:21:59  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:21:59  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:21:59  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:26:10  StandardRoadSet: Resources authorized!
+01:26:14  StandardRoadSet: Resources authorized!
+01:26:40  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:26:40  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:26:45  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, -10)
+01:26:45  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:26:50  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:26:50  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:26:50  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:26:50  ROAD BUILDER: BUILD START!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: of path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:49:59  StandardRoadSet: Resources authorized!
+01:50:03  StandardRoadSet: Resources authorized!
+01:50:39  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:50:39  ROAD BUILDER: BUILD START!
+                       >SET: on position:(3.0, 0.0, 4.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 5.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 6.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 7.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 8.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:50:46  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:50:46  ROAD BUILDER: BUILD START!
+                       >SET: on position:(3.0, 0.0, 4.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 5.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 6.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 7.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 8.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:50:46  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, -10)
+01:50:46  ROAD BUILDER: BUILD START!
+                       >SET: on position:(3.0, 0.0, 9.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 10.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 11.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 12.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:50:46  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, -10)
+01:50:46  ROAD BUILDER: BUILD START!
+                       >SET: on position:(3.0, 0.0, 9.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 13.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 10.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: on position:(3.0, 0.0, 11.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 12.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 13.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:50:56  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:50:56  ROAD BUILDER: BUILD START!
+                       >SET: on position:(12.0, 0.0, 4.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 5.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 6.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:50:56  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:50:56  ROAD BUILDER: BUILD START!
+                       >SET: on position:(12.0, 0.0, 4.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 7.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 5.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:50:56  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:50:56  ROAD BUILDER: BUILD START!
+                       >SET: on position:(12.0, 0.0, 4.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 8.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 6.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 5.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: on position:(12.0, 0.0, 7.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 6.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 8.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 7.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: on position:(12.0, 0.0, 8.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:51:03  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:51:03  ROAD BUILDER: BUILD START!
+                       >SET: on position:(12.0, 0.0, 4.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 5.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 6.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 7.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 8.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:52:59  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:52:59  ROAD BUILDER: BUILD START!
+                       >SET: on position:(12.0, 0.0, 4.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 5.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 6.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 7.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 8.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:52:59  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:52:59  ROAD BUILDER: BUILD START!
+                       >SET: on position:(12.0, 0.0, 4.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 5.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 6.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 7.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 8.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:52:59  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, -10)
+01:52:59  ROAD BUILDER: BUILD START!
+                       >SET: on position:(12.0, 0.0, 9.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 10.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 11.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:52:59  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, -10)
+01:52:59  ROAD BUILDER: BUILD START!
+                       >SET: on position:(12.0, 0.0, 9.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 12.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 10.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:52:59  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, -10)
+01:52:59  ROAD BUILDER: BUILD START!
+                       >SET: on position:(12.0, 0.0, 9.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 13.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 11.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 10.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: on position:(12.0, 0.0, 12.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 11.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 13.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 12.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: on position:(12.0, 0.0, 13.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:53:04  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:53:04  ROAD BUILDER: BUILD START!
+                       >SET: on position:(3.0, 0.0, 4.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 5.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:53:04  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:53:04  ROAD BUILDER: BUILD START!
+                       >SET: on position:(3.0, 0.0, 4.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 6.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 5.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 7.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 6.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 8.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 7.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: on position:(3.0, 0.0, 8.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:53:28  StandardRoadSet: Resources authorized!
+01:57:17  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -11)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, -22)
+01:57:17  ROAD BUILDER: BUILD START!
+                       >SET: on position:(4.0, 1.0, 72.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 1.0, 73.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 1.0, 74.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 1.0, 75.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 1.0, 76.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 1.0, 77.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 1.0, 78.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 1.0, 79.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 1.0, 80.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 1.0, 81.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:57:17  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -11)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, -22)
+01:57:17  ROAD BUILDER: BUILD START!
+                       >SET: on position:(4.0, 1.0, 72.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 1.0, 82.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 1.0, 73.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: on position:(4.0, 1.0, 74.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 1.0, 75.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 1.0, 76.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 1.0, 77.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 1.0, 78.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 1.0, 79.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 1.0, 80.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 1.0, 81.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 1.0, 82.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:57:39  ROAD SERVER: START: creating path set
+                      >PATH:(1, 0, 16)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(1, 0, -1)
+01:57:39  ROAD BUILDER: BUILD START!
+                       >SET: on position:(3.0, 1.0, 41.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 42.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 43.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 44.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 45.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 46.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 47.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 48.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 49.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 50.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 51.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 52.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 53.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 54.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 55.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 56.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 57.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:57:39  ROAD SERVER: START: creating path set
+                      >PATH:(1, 0, 16)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(1, 0, -1)
+01:57:39  ROAD BUILDER: BUILD START!
+                       >SET: on position:(3.0, 1.0, 41.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 42.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 43.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 44.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 45.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 46.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 47.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 48.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 49.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 50.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 51.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 52.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 53.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 54.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 55.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 56.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 57.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:57:49  ROAD SERVER: START: creating path set
+                      >PATH:(1, 0, 16)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(1, 0, -1)
+01:57:49  ROAD BUILDER: BUILD START!
+                       >SET: on position:(3.0, 1.0, 41.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 42.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 43.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 44.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 45.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 46.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 47.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 48.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 49.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 50.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 51.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 52.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 53.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 54.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 55.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 56.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 57.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:57:51  ROAD SERVER: START: creating path set
+                      >PATH:(1, -1, -14)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(1, -1, -28)
+01:57:51  ROAD BUILDER: BUILD START!
+                       >SET: on position:(3.0, 1.0, 21.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 22.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:57:51  ROAD SERVER: START: creating path set
+                      >PATH:(1, -1, -14)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(1, -1, -28)
+01:57:51  ROAD BUILDER: BUILD START!
+                       >SET: on position:(3.0, 1.0, 21.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 23.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 22.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 24.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 23.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 25.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 24.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 26.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 25.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 27.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 26.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 28.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 27.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 29.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 28.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 30.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 29.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 31.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 30.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 32.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 31.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 33.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 32.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 34.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 33.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: on position:(3.0, 1.0, 34.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:58:51  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, 12)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+01:58:51  ROAD BUILDER: BUILD START!
+                       >SET: on position:(3.0, 1.0, 25.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 26.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 27.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 28.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 29.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 30.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 31.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 32.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 33.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 34.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 35.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 36.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:58:52  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -12)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, -24)
+01:58:52  ROAD BUILDER: BUILD START!
+                       >SET: on position:(3.0, 1.0, 37.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 38.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 39.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 40.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 41.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 42.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 43.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 44.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 45.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 46.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 47.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 48.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:58:52  ROAD SERVER: START: creating path set
+                      >PATH:(0, 0, -12)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, -24)
+01:58:52  ROAD BUILDER: BUILD START!
+                       >SET: on position:(3.0, 1.0, 37.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 38.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 39.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 40.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 41.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 42.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 43.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:58:53  ROAD SERVER: START: creating path set
+                      >PATH:(1, 0, 16)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(1, 0, -1)
+01:58:53  ROAD BUILDER: BUILD START!
+                       >SET: on position:(3.0, 1.0, 41.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 44.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 42.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 45.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 43.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:58:53  ROAD SERVER: START: creating path set
+                      >PATH:(1, 0, 16)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(1, 0, -1)
+01:58:53  ROAD BUILDER: BUILD START!
+                       >SET: on position:(3.0, 1.0, 41.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 46.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 44.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 42.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 47.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 45.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 43.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 48.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 46.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 44.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: on position:(3.0, 1.0, 47.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 45.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 48.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 46.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 49.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 47.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 50.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 48.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 51.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 49.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 52.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 50.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 53.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 51.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 54.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 52.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 55.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 53.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 56.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 54.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 57.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 55.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: on position:(3.0, 1.0, 56.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 57.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:58:59  ROAD SERVER: START: creating path set
+                      >PATH:(1, 0, 16)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(1, 0, -1)
+01:58:59  ROAD BUILDER: BUILD START!
+                       >SET: on position:(3.0, 1.0, 41.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 42.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 43.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 44.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 45.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 46.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 47.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 48.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 49.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 50.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 51.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 52.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 53.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 54.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 55.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 56.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 57.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:58:59  ROAD SERVER: START: creating path set
+                      >PATH:(1, -1, -14)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(1, -1, -28)
+01:58:59  ROAD BUILDER: BUILD START!
+                       >SET: on position:(3.0, 1.0, 21.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 22.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 23.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 24.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 25.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 26.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 27.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 28.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 29.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 30.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 31.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 32.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 33.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 1.0, 34.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+01:59:00  ROAD SERVER: START: creating path set
+                      >PATH:(-1, 1, 14)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(-1, 1, 0)
+01:59:00  ROAD BUILDER: BUILD START!
+                       >SET: on position:(4.0, 0.0, 7.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 8.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 9.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 10.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:59:00  ROAD SERVER: START: creating path set
+                      >PATH:(-1, 1, 14)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(-1, 1, 0)
+01:59:00  ROAD BUILDER: BUILD START!
+                       >SET: on position:(4.0, 0.0, 7.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 11.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 8.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 12.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 9.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 13.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 10.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 14.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 11.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 15.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 12.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 16.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 13.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 17.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 14.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 18.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 15.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 19.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 16.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 20.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 17.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: on position:(4.0, 0.0, 18.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 19.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(4.0, 0.0, 20.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+11:00:57  StandardRoadSet line:14: Resources authorized!
+11:02:27  StandardRoadSet line:14: Resources authorized!
+11:04:01  ROAD SERVER line:34: START: creating path set
+                      >PATH:(18, 9, 8)
+11:04:01              >ERROR!:end directionleft is not suitable
+11:04:01  ROAD SERVER line:34: START: creating path set
+                      >PATH:(18, 9, 8)
+11:04:01              >ERROR!:end directionleft is not suitable
+11:04:01  ROAD SERVER line:34: START: creating path set
+                      >PATH:(18, 9, 8)
+11:04:01              >ERROR!:end directionleft is not suitable
+11:04:01  ROAD SERVER line:34: START: creating path set
+                      >PATH:(18, 9, 8)
+11:04:01              >ERROR!:end directionleft is not suitable
+11:05:27  StandardRoadSet line:14: Resources authorized!
+11:06:10  ROAD SERVER line:34: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+11:06:10  ROAD BUILDER line:34: BUILD START!
+                       >SET: on position:(3.0, 0.0, 4.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 5.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 6.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 7.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 8.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+11:06:11  ROAD SERVER line:34: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+11:06:11  ROAD BUILDER line:34: BUILD START!
+                       >SET: on position:(3.0, 0.0, 4.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 5.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 6.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 7.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+11:06:11  ROAD SERVER line:34: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+11:06:11  ROAD BUILDER line:34: BUILD START!
+                       >SET: on position:(3.0, 0.0, 4.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 8.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 5.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: on position:(3.0, 0.0, 6.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 7.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 8.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+11:06:15  ROAD SERVER line:34: START: creating path set
+                      >PATH:(0, 0, -5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, -10)
+11:06:15  ROAD BUILDER line:34: BUILD START!
+                       >SET: on position:(3.0, 0.0, 9.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 10.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 11.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 12.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(3.0, 0.0, 13.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+11:06:21  ROAD SERVER line:34: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+11:06:21  ROAD BUILDER line:34: BUILD START!
+                       >SET: on position:(12.0, 0.0, 4.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 5.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 6.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 7.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+11:06:22  ROAD SERVER line:34: START: creating path set
+                      >PATH:(0, 0, 5)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                    >Added road of path(0, 0, 1)
+                      >ROAD CREATION COMPLEATED WITH undefinedPath:(0, 0, 0)
+11:06:22  ROAD BUILDER line:34: BUILD START!
+                       >SET: on position:(12.0, 0.0, 4.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 8.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 5.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+                       >SET: on position:(12.0, 0.0, 6.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 7.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >SET: on position:(12.0, 0.0, 8.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+                       >ROAD BUILT!
+11:07:22  StandardRoadSet line:14: Resources authorized!
+11:08:09  ROAD SERVER line:34: START: creating path set
+                      >PATH:(5, 0, 0)
+11:08:09              >ERROR!:end directionleft is not suitable
+11:08:09  ROAD SERVER line:34: START: creating path set
+                      >PATH:(5, 0, 0)
+11:08:09              >ERROR!:end directionleft is not suitable
+11:08:09  ROAD SERVER line:34: START: creating path set
+                      >PATH:(5, 0, 0)
+11:08:09              >ERROR!:end directionleft is not suitable
+11:08:09  ROAD SERVER line:34: START: creating path set
+                      >PATH:(5, 0, 0)
+11:08:09              >ERROR!:end directionleft is not suitable
+11:08:10  ROAD SERVER line:34: START: creating path set
+                      >PATH:(-5, 0, 0)
+11:08:10              >ERROR!:end directionright is not suitable
+12:08:44  StandardRoadSet line:14: Resources authorized!
+12:08:49  StandardRoadSet line:14: Resources authorized!
+12:09:23  StandardRoadSet line:14: Resources authorized!
+12:09:57  StandardRoadSet line:14: Resources authorized!
+12:10:21  StandardRoadSet line:14: Resources authorized!
+12:10:25  StandardRoadSet line:14: Resources authorized!
+12:11:07  ROAD SERVER line:34: START: creating path set
+          35:13PATH:(5, 0, 0)
+12:11:07              >ERROR!:end directionback is not suitable
+12:11:07  ROAD SERVER line:34: START: creating path set
+          35:13PATH:(5, 0, 0)
+12:11:07              >ERROR!:end directionback is not suitable
+12:11:12  ROAD SERVER line:34: START: creating path set
+          35:13PATH:(5, 0, 0)
+12:11:12              >ERROR!:end directionback is not suitable
+12:11:12  ROAD SERVER line:34: START: creating path set
+          35:13PATH:(5, 0, 0)
+12:11:12              >ERROR!:end directionback is not suitable
+12:11:13  ROAD SERVER line:34: START: creating path set
+          35:13PATH:(-5, 0, 0)
+12:11:13              >ERROR!:end directionback is not suitable
+12:11:13  ROAD SERVER line:34: START: creating path set
+          35:13PATH:(-5, 0, 0)
+12:11:13              >ERROR!:end directionback is not suitable
+12:11:13  ROAD SERVER line:34: START: creating path set
+          35:13PATH:(-5, 0, 0)
+12:11:13              >ERROR!:end directionback is not suitable
+12:11:20  ROAD SERVER line:34: START: creating path set
+          35:13PATH:(5, 0, 0)
+12:11:20              >ERROR!:end directionback is not suitable
+12:11:20  ROAD SERVER line:34: START: creating path set
+          35:13PATH:(5, 0, 0)
+12:11:20              >ERROR!:end directionback is not suitable
+12:12:25  StandardRoadSet line:14: Resources authorized!
+12:12:30  StandardRoadSet line:14: Resources authorized!
+12:12:58  ROAD SERVER line:34: START: creating path set
+          35:13PATH:(5, 0, 0)
+          92:11Added road of path(4, 0, 3)
+          92:11Added road of path(-3, 0, 4)
+          100:13REPORT: turns set! undefined path is now(13, 0, 6)
+          115:11Inserted road of path(0, 0, 1) in index:0
+          115:11Inserted road of path(0, 0, 1) in index:1
+          115:11Inserted road of path(0, 0, 1) in index:2
+          115:11Inserted road of path(0, 0, 1) in index:4
+          115:11Inserted road of path(0, 0, 1) in index:6
+          115:11Inserted road of path(0, 0, 1) in index:7
+          115:11Inserted road of path(0, 0, 1) in index:8
+          115:11Inserted road of path(0, 0, 1) in index:9
+          115:11Inserted road of path(0, 0, 1) in index:10
+          115:11Inserted road of path(0, 0, 1) in index:11
+          115:11Inserted road of path(0, 0, 1) in index:12
+          115:11Inserted road of path(0, 0, 1) in index:13
+          115:11Inserted road of path(0, 0, 1) in index:14
+          115:11Inserted road of path(0, 0, 1) in index:15
+          115:11Inserted road of path(0, 0, 1) in index:16
+          115:11Inserted road of path(0, 0, 1) in index:17
+          115:11Inserted road of path(0, 0, 1) in index:18
+          115:11Inserted road of path(0, 0, 1) in index:19
+          115:11Inserted road of path(0, 0, 1) in index:20
+          228:13ROAD CREATION COMPLEATED WITH undefinedPath:(4, 0, -18)
+12:12:58  ROAD BUILDER line:34: BUILD START!
+          46:14SET: on position:(4.0, 0.0, 14.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(4.0, 0.0, 15.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(4.0, 0.0, 16.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(4.0, -0.1, 17.0)path:(4, 0, 3)rotation:(0.0, 0.0, 0.0)
+12:12:58  ROAD SERVER line:34: START: creating path set
+          35:13PATH:(5, 0, 0)
+          92:11Added road of path(4, 0, 3)
+          92:11Added road of path(-3, 0, 4)
+          100:13REPORT: turns set! undefined path is now(13, 0, 6)
+          115:11Inserted road of path(0, 0, 1) in index:0
+          115:11Inserted road of path(0, 0, 1) in index:1
+          115:11Inserted road of path(0, 0, 1) in index:2
+          115:11Inserted road of path(0, 0, 1) in index:4
+          115:11Inserted road of path(0, 0, 1) in index:6
+          115:11Inserted road of path(0, 0, 1) in index:7
+          115:11Inserted road of path(0, 0, 1) in index:8
+          115:11Inserted road of path(0, 0, 1) in index:9
+          115:11Inserted road of path(0, 0, 1) in index:10
+          115:11Inserted road of path(0, 0, 1) in index:11
+          115:11Inserted road of path(0, 0, 1) in index:12
+          115:11Inserted road of path(0, 0, 1) in index:13
+          115:11Inserted road of path(0, 0, 1) in index:14
+          115:11Inserted road of path(0, 0, 1) in index:15
+          115:11Inserted road of path(0, 0, 1) in index:16
+          115:11Inserted road of path(0, 0, 1) in index:17
+          115:11Inserted road of path(0, 0, 1) in index:18
+          115:11Inserted road of path(0, 0, 1) in index:19
+          115:11Inserted road of path(0, 0, 1) in index:20
+          228:13ROAD CREATION COMPLEATED WITH undefinedPath:(4, 0, -18)
+12:12:58  ROAD BUILDER line:34: BUILD START!
+          46:14SET: on position:(4.0, 0.0, 14.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(8.0, -0.1, 20.0)path:(0, 0, 1)rotation:(0.0, 90.0, 0.0)
+          46:14SET: on position:(4.0, 0.0, 15.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(9.0, -0.1, 20.0)path:(-3, 0, 4)rotation:(0.0, 90.0, 0.0)
+          46:14SET: on position:(4.0, 0.0, 16.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 23.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(4.0, -0.1, 17.0)path:(4, 0, 3)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 24.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(8.0, -0.1, 20.0)path:(0, 0, 1)rotation:(0.0, 90.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 25.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(9.0, -0.1, 20.0)path:(-3, 0, 4)rotation:(0.0, 90.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 26.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 23.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 27.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 24.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 28.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 25.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 29.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 26.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 30.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 27.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 31.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 28.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 32.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 29.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 33.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 30.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 34.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 31.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 35.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 32.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 36.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 33.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 37.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 34.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          56:14ROAD BUILT!
+          46:14SET: on position:(13.0, -0.4, 35.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 36.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 37.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          56:14ROAD BUILT!
+01:05:26  StandardRoadSet line:14: Resources authorized!
+01:05:41  StandardRoadSet line:14: Resources authorized!
+01:06:06  ROAD SERVER line:34: START: creating path set
+          35:13PATH:(5, 0, 0)
+          92:11Added road of path(4, 0, 3)
+          92:11Added road of path(-3, 0, 4)
+          100:13REPORT: turns set! undefined path is now(13, 0, 6)
+          115:11Inserted road of path(0, 0, 1) in index:0
+          115:11Inserted road of path(0, 0, 1) in index:1
+          115:11Inserted road of path(0, 0, 1) in index:2
+          115:11Inserted road of path(0, 0, 1) in index:4
+          115:11Inserted road of path(0, 0, 1) in index:6
+          115:11Inserted road of path(0, 0, 1) in index:7
+          115:11Inserted road of path(0, 0, 1) in index:8
+          115:11Inserted road of path(0, 0, 1) in index:9
+          115:11Inserted road of path(0, 0, 1) in index:10
+          115:11Inserted road of path(0, 0, 1) in index:11
+          115:11Inserted road of path(0, 0, 1) in index:12
+          115:11Inserted road of path(0, 0, 1) in index:13
+          115:11Inserted road of path(0, 0, 1) in index:14
+          115:11Inserted road of path(0, 0, 1) in index:15
+          115:11Inserted road of path(0, 0, 1) in index:16
+          115:11Inserted road of path(0, 0, 1) in index:17
+          115:11Inserted road of path(0, 0, 1) in index:18
+          115:11Inserted road of path(0, 0, 1) in index:19
+          115:11Inserted road of path(0, 0, 1) in index:20
+          228:13ROAD CREATION COMPLEATED WITH undefinedPath:(4, 0, -18)
+01:06:06  ROAD BUILDER line:34: BUILD START!
+          46:14SET: on position:(4.0, 0.0, 14.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(4.0, 0.0, 15.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(4.0, 0.0, 16.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:06:06  ROAD SERVER line:34: START: creating path set
+          35:13PATH:(5, 0, 0)
+          92:11Added road of path(4, 0, 3)
+          92:11Added road of path(-3, 0, 4)
+          100:13REPORT: turns set! undefined path is now(13, 0, 6)
+          115:11Inserted road of path(0, 0, 1) in index:0
+          115:11Inserted road of path(0, 0, 1) in index:1
+          115:11Inserted road of path(0, 0, 1) in index:2
+          115:11Inserted road of path(0, 0, 1) in index:4
+          115:11Inserted road of path(0, 0, 1) in index:6
+          115:11Inserted road of path(0, 0, 1) in index:7
+          115:11Inserted road of path(0, 0, 1) in index:8
+          115:11Inserted road of path(0, 0, 1) in index:9
+          115:11Inserted road of path(0, 0, 1) in index:10
+          115:11Inserted road of path(0, 0, 1) in index:11
+          115:11Inserted road of path(0, 0, 1) in index:12
+          115:11Inserted road of path(0, 0, 1) in index:13
+          115:11Inserted road of path(0, 0, 1) in index:14
+          115:11Inserted road of path(0, 0, 1) in index:15
+          115:11Inserted road of path(0, 0, 1) in index:16
+          115:11Inserted road of path(0, 0, 1) in index:17
+          115:11Inserted road of path(0, 0, 1) in index:18
+          115:11Inserted road of path(0, 0, 1) in index:19
+          115:11Inserted road of path(0, 0, 1) in index:20
+          228:13ROAD CREATION COMPLEATED WITH undefinedPath:(4, 0, -18)
+01:06:06  ROAD BUILDER line:34: BUILD START!
+          46:14SET: on position:(4.0, 0.0, 14.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(4.0, -0.1, 17.0)path:(4, 0, 3)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(4.0, 0.0, 15.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+01:06:06  ROAD SERVER line:34: START: creating path set
+          35:13PATH:(5, 0, 0)
+          92:11Added road of path(4, 0, 3)
+          92:11Added road of path(-3, 0, 4)
+          100:13REPORT: turns set! undefined path is now(13, 0, 6)
+          115:11Inserted road of path(0, 0, 1) in index:0
+          115:11Inserted road of path(0, 0, 1) in index:1
+          115:11Inserted road of path(0, 0, 1) in index:2
+          115:11Inserted road of path(0, 0, 1) in index:4
+          115:11Inserted road of path(0, 0, 1) in index:6
+          115:11Inserted road of path(0, 0, 1) in index:7
+          115:11Inserted road of path(0, 0, 1) in index:8
+          115:11Inserted road of path(0, 0, 1) in index:9
+          115:11Inserted road of path(0, 0, 1) in index:10
+          115:11Inserted road of path(0, 0, 1) in index:11
+          115:11Inserted road of path(0, 0, 1) in index:12
+          115:11Inserted road of path(0, 0, 1) in index:13
+          115:11Inserted road of path(0, 0, 1) in index:14
+          115:11Inserted road of path(0, 0, 1) in index:15
+          115:11Inserted road of path(0, 0, 1) in index:16
+          115:11Inserted road of path(0, 0, 1) in index:17
+          115:11Inserted road of path(0, 0, 1) in index:18
+          115:11Inserted road of path(0, 0, 1) in index:19
+          115:11Inserted road of path(0, 0, 1) in index:20
+          228:13ROAD CREATION COMPLEATED WITH undefinedPath:(4, 0, -18)
+01:06:06  ROAD BUILDER line:34: BUILD START!
+          46:14SET: on position:(4.0, 0.0, 14.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(8.0, -0.1, 20.0)path:(0, 0, 1)rotation:(0.0, 90.0, 0.0)
+          46:14SET: on position:(4.0, 0.0, 16.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(4.0, 0.0, 15.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(9.0, -0.1, 20.0)path:(-3, 0, 4)rotation:(0.0, 90.0, 0.0)
+          46:14SET: on position:(4.0, -0.1, 17.0)path:(4, 0, 3)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(4.0, 0.0, 16.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 23.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(8.0, -0.1, 20.0)path:(0, 0, 1)rotation:(0.0, 90.0, 0.0)
+          46:14SET: on position:(4.0, -0.1, 17.0)path:(4, 0, 3)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 24.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(9.0, -0.1, 20.0)path:(-3, 0, 4)rotation:(0.0, 90.0, 0.0)
+          46:14SET: on position:(8.0, -0.1, 20.0)path:(0, 0, 1)rotation:(0.0, 90.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 25.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 23.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(9.0, -0.1, 20.0)path:(-3, 0, 4)rotation:(0.0, 90.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 26.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 24.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 23.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 27.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 25.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 24.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 28.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 26.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 25.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 29.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 27.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 26.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 30.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 28.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 27.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 31.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 29.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 28.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 32.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 30.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 29.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 33.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 31.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 30.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 34.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 32.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 31.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 35.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 33.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 32.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 36.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 34.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 33.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 37.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 35.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 34.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          56:14ROAD BUILT!
+          46:14SET: on position:(13.0, -0.4, 36.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 35.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 37.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 36.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          56:14ROAD BUILT!
+          46:14SET: on position:(13.0, -0.4, 37.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          56:14ROAD BUILT!
+01:06:44  StandardRoadSet line:14: Resources authorized!
+01:07:09  ROAD SERVER line:34: START: creating path set
+          35:13PATH:(5, 0, 0)
+          92:11Added road of path(4, 0, 3)
+          92:11Added road of path(-3, 0, 4)
+          100:13REPORT: turns set! undefined path is now(13, 0, 6)
+          115:11Inserted road of path(0, 0, 1) in index:0
+          115:11Inserted road of path(0, 0, 1) in index:1
+          115:11Inserted road of path(0, 0, 1) in index:2
+          115:11Inserted road of path(0, 0, 1) in index:4
+          115:11Inserted road of path(0, 0, 1) in index:6
+          115:11Inserted road of path(0, 0, 1) in index:7
+          115:11Inserted road of path(0, 0, 1) in index:8
+          115:11Inserted road of path(0, 0, 1) in index:9
+          115:11Inserted road of path(0, 0, 1) in index:10
+          115:11Inserted road of path(0, 0, 1) in index:11
+          115:11Inserted road of path(0, 0, 1) in index:12
+          115:11Inserted road of path(0, 0, 1) in index:13
+          115:11Inserted road of path(0, 0, 1) in index:14
+          115:11Inserted road of path(0, 0, 1) in index:15
+          115:11Inserted road of path(0, 0, 1) in index:16
+          115:11Inserted road of path(0, 0, 1) in index:17
+          115:11Inserted road of path(0, 0, 1) in index:18
+          115:11Inserted road of path(0, 0, 1) in index:19
+          115:11Inserted road of path(0, 0, 1) in index:20
+          228:13ROAD CREATION COMPLEATED WITH undefinedPath:(4, 0, -18)
+01:07:09  ROAD BUILDER line:34: BUILD START!
+          46:14SET: on position:(4.0, 0.0, 14.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(4.0, 0.0, 15.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(4.0, 0.0, 16.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(4.0, -0.1, 17.0)path:(4, 0, 3)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(8.0, -0.1, 20.0)path:(0, 0, 1)rotation:(0.0, 90.0, 0.0)
+          46:14SET: on position:(9.0, -0.1, 20.0)path:(-3, 0, 4)rotation:(0.0, 90.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 23.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 24.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 25.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.2, 26.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 27.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 28.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 29.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 30.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 31.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.3, 32.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 33.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 34.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 35.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 36.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          46:14SET: on position:(13.0, -0.4, 37.0)path:(0, 0, 1)rotation:(0.0, 0.0, 0.0)
+          56:14ROAD BUILT!
+01:16:40  StandardRoadSet line:14: Resources authorized!

@@ -2911,23 +2911,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2059789766}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &2080851667 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2903221002185015778, guid: 06e6e0aa166983e46ad91d541dde31db, type: 3}
-  m_PrefabInstance: {fileID: 2903221003141924835}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2080851668
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2080851667}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 977cd54a4e2e94844ad4553dc4d83337, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &203675883624347389
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -3,6 +3,9 @@ using System.Collections.Generic;
 
 /// <summary>
 /// 配置可能なブロック。
+/// Mediatorを継承したほうがいろいろと楽になるが
+/// このクラスを使うMediatorを継承すべきか検討中
+/// 設計を変えるときはブランチ切ってね
 /// </summary>
 public abstract class BuildBlock:MonoBehaviour,ISubject<ModuleState>
 {

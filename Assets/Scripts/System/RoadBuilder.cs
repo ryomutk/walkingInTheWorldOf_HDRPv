@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Collections;
 
 
+
 public class RoadBuilder : Singleton<RoadBuilder>
 {
     InstantPool<InterSquare> interSquarePool;
@@ -43,9 +44,11 @@ public class RoadBuilder : Singleton<RoadBuilder>
         {
             var rotation = forwardRotation * data[i].Value;
 
-            logger.LogLine("SET: of path:" + data[i].Key.path + "rotation:" + data[i].Value.eulerAngles);
+            logger.LogLine("SET: on position:" + nowPosition.ToString().PadRight(20) + "path(modified):" + data[i].Key.path.ToString().PadRight(20) + "rotation:" + data[i].Value.eulerAngles);
 
-            interSquarePool.GetObj().SetStructure(data[i].Key, Vector3Int.RoundToInt(nowPosition), rotation);
+            var clone = Instantiate(data[i].Key);
+
+            interSquarePool.GetObj().SetStructure(clone , Vector3Int.RoundToInt(nowPosition), rotation);
             nowPosition += data[i].Value * forwardRotation * data[i].Key.path;
 
             yield return 5;

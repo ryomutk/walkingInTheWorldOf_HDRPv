@@ -23,9 +23,14 @@ public class Doorway : MonoBehaviour
         BoxCollider collider = GetComponent<BoxCollider>();
         collider.enabled = false;
 
-        foreach (var direction in MathOfWorld.directions2D)
+        foreach (var direction in MathOfWorld.directions)
         {
-            if (!Physics.Raycast(transform.position, direction, 1, LayerMask.GetMask("Block")))
+            if(direction == Vector3Int.down || direction == Vector3Int.up)
+            {
+                continue;
+            }
+            else if (!Physics.Raycast(transform.position, direction, 1, LayerMask.GetMask("Block")))
+            
             {
                 _direction = direction;
                 break;

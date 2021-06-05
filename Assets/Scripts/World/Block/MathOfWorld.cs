@@ -5,27 +5,19 @@ using System.Collections.Generic;
 
 public class MathOfWorld
 {
-    static public ReadOnlyCollection<Vector3Int> directions2D { get { return Array.AsReadOnly(_directions2D); } }
     static public ReadOnlyCollection<Vector3Int> rotateEulers { get { return Array.AsReadOnly(_eulerSets); } }
     static public ReadOnlyCollection<Vector3Int> directions { get { return Array.AsReadOnly(_directions); } }
 
     //readonlyにしたいンゴねぇ
     public Dictionary<Direction, Vector3Int> dirDic { get { return _dirDic; } }
 
-    static Vector3Int[] _directions2D = new Vector3Int[4]
+
+    static Vector3Int[] _directions = new Vector3Int[6]
     {
         new Vector3Int(0,0,1),
         Vector3Int.right,
         Vector3Int.left,
         new Vector3Int(0,0,-1),
-    };
-
-    static Vector3Int[] _directions = new Vector3Int[6]
-    {
-        _directions2D[0],
-        _directions2D[1],
-        _directions2D[2],
-        _directions2D[3],
         Vector3Int.up,
         Vector3Int.down
     };

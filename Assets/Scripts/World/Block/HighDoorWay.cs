@@ -10,6 +10,7 @@ using System.Linq;
 public class HighDoorWay : Doorway
 {
     Structure parent { get; set; }
+    public bool used { get; private set; }
 
     void Start()
     {
@@ -28,15 +29,17 @@ public class HighDoorWay : Doorway
             {
                 return null;
             }
-            
-            /*
+
+
             //もし誰か使われている人がいるなら
-            if(parent.doorwayList.Any(x => x is HighDoorWay && x != this && x.CheckAvalableDirection() == null))
+            if (parent.doorwayList.Any(x => x is HighDoorWay x1 && x1.used))
             {
                 return null;
             }
-            */
-            
+
+
+            //でなければ
+            used = true;
             return direction;
         }
 

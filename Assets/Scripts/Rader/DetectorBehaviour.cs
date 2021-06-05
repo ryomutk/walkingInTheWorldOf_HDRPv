@@ -4,7 +4,7 @@ using System.Collections;
 /// 
 /// </summary>
 /// <typeparam name="T">検知するもの</typeparam>
-public class DetectorBehaviour<T> : SubjectBehaviour<ObjectDataSet<T>>
+public class DetectorBehaviour<T> : MonoBehaviour
 {
     Detector<T> rader;
 
@@ -13,12 +13,18 @@ public class DetectorBehaviour<T> : SubjectBehaviour<ObjectDataSet<T>>
     [SerializeField] float boxSize = 3;
     [SerializeField] string maskName = null;
 
-    public CastType castType{get{return _castType;}}
+    public CastType castType { get { return _castType; } }
     System.Func<T> castMethod = null;
+
+    public IMediator<DetectorBehaviour<T>> mediator { get { return _mediator;} }
+
+    IMediator<DetectorBehaviour<T>> _mediator;
 
 
     protected virtual void Start()
     {
+        _mediator = new DetectorMediator<T>();
+
         if (maskName == null)
         {
             rader = new Detector<T>(transform, direction, fullRange: false);
@@ -47,6 +53,7 @@ public class DetectorBehaviour<T> : SubjectBehaviour<ObjectDataSet<T>>
         }
     }
 
+
     public bool Cast()
     {
         T result = default(T);
@@ -55,8 +62,8 @@ public class DetectorBehaviour<T> : SubjectBehaviour<ObjectDataSet<T>>
 
         if (result != null)
         {
-            ObjectDataSet<T> dataSet = new ObjectDataSet<T>(gameObject, result);
-            Notice(dataSet);
+            _mediator.SimpleNotice(result);
+            _mediator.NoticeAll(this);
             return true;
         }
 
@@ -65,35 +72,21 @@ public class DetectorBehaviour<T> : SubjectBehaviour<ObjectDataSet<T>>
 
     public bool Cast(out T hit)
     {
+        hit = default(T);
+
         hit = castMethod();
 
         if (hit != null)
         {
-            ObjectDataSet<T> dataSet = new ObjectDataSet<T>(gameObject, hit);
-            Notice(dataSet);
+            _mediator.SimpleNotice(hit);
+            _mediator.NoticeAll(this);
             return true;
         }
 
-        hit = default(T);
+
         return false;
     }
 
-}
-
-/// <summary>
-/// ObserServerで引数に自分とデータを投げたーい
-/// </summary>
-/// <typeparam name="T"></typeparam>
-public class ObjectDataSet<T>
-{
-    GameObject gameObject { get; set; }
-    T data { get; set; }
-
-    public ObjectDataSet(GameObject gameObject, T data)
-    {
-        this.gameObject = gameObject;
-        this.data = data;
-    }
 }
 
 public enum CastType

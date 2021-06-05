@@ -33,6 +33,9 @@ public class InterSquare : MonoBehaviour
         collider.size = recData.halfExtent * 2 - Vector3.one * 0.1f;
         collider.center = recData.localCenter;
 
+        structure.transform.SetParent(transform);
+        structure.transform.localPosition = Vector3.zero;
+
         transform.position = recData.transPosition;
         transform.rotation = recData.rotation;
     }

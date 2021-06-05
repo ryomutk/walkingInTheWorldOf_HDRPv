@@ -28,6 +28,7 @@ public class PlayerDetector : DetectorBehaviour<Player>, IObserver<ModuleState>
         {
             selfBlock = GetComponent<BuildBlock>();
             selfBlock.AddObserver(this);
+            
             if (selfBlock == null)
             {
                 logger.LogError("BLOCK NOT FOUND");

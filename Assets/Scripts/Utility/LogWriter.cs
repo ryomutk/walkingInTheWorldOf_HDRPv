@@ -157,20 +157,20 @@ public class Logger
         _senderName = sender;
     }
 
-    public void Log(string log)
+    public void Log(string log, [System.Runtime.CompilerServices.CallerLineNumber] int line = 0)
     {
-        LogWriter.Log(_senderName + ": " + log, _logName);
+        LogWriter.Log(_senderName + " line:" + line + ": " + log, _logName);
     }
 
-    public void LogLine(string log)
+    public void LogLine(string log,[System.Runtime.CompilerServices.CallerLineNumber] int line = 0)
     {
-        var format = string.Format("{0," + (_senderName.Count() + 2) + "}{1}", ">", log);
+        var format = string.Format("{0}:{0," + (_senderName.Count() + 2) + "}{1}",line, log);
         LogWriter.Log(format, _logName, true);
     }
 
-    public void LogError(string log, bool line = false)
+    public void LogError(string log, bool line = false, [System.Runtime.CompilerServices.CallerLineNumber] int lineNum = 0)
     {
-        string formatted = _senderName + ": " + log;
+        string formatted = _senderName + "line:" + lineNum + log;
 
         if (line)
         {

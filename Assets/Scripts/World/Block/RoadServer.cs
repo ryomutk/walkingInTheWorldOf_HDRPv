@@ -34,7 +34,7 @@ public class RoadServer : Singleton<RoadServer>
         logger.Log("START: creating path set");
         logger.LogLine("PATH:" + path);
 
-        if (SteapCheck(path))
+        if (!SteapCheck(path))
         {
             logger.LogLine("FAILED: too steap");
             return null;
@@ -161,7 +161,7 @@ public class RoadServer : Singleton<RoadServer>
                     tmpSliceNum += 1;
                 }
             }
-            else if (type == RoadType.corridor)
+            else if (type == RoadType.stairs)
             {
                 tmpSliceNum = unitStairsNum;
                 if (surplusCorridor != 0)
@@ -173,7 +173,7 @@ public class RoadServer : Singleton<RoadServer>
             }
             else
             {
-                logger.LogError("ERROR:something went wrong in here",true);
+                logger.LogError("ERROR:unknown or undefined RoadType:"+type,true);
                 return null;
             }
 

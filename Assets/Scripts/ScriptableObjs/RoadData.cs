@@ -8,7 +8,7 @@ public class RoadData
 
     List<RoadBase> roads = new List<RoadBase>();
     List<Quaternion> _rotationList = new List<Quaternion>();
-    List<Vector3Int> _modifiedPath;
+    List<Vector3Int> _modifiedPath = new List<Vector3Int>();
     bool isDarty = false;
     public int count { get { return roads.Count; } }
 
@@ -36,7 +36,7 @@ public class RoadData
         {
             returnPath += path;
         }
-
+        logger.Log("now modpath is" + returnPath);
         return returnPath;
     }
 

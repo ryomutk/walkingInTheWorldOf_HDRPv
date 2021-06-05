@@ -95,7 +95,7 @@ public class Square : MonoBehaviour
         }
         else
         {
-            str.transform.localPosition = Vector3Int.zero;
+            str.transform.localPosition = origin;
         }
 
         transform.eulerAngles = rotateEuler;

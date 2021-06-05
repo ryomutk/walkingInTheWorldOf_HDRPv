@@ -60,7 +60,7 @@ public class SquareFinder
 
         Physics.OverlapBoxNonAlloc(castSquare.center, castSquare.halfExtent, hit, castSquare.rotation, LayerMask.GetMask("Square"));
 
-        
+
         return hit[0];
     }
 
@@ -71,13 +71,6 @@ public class SquareFinder
     /// <returns></returns>
     public bool CheckSquare(IRectangularData metaSqr)
     {
-        if (metaSqr.rotationEuler == Vector3.zero)
-        {
-            return !Physics.CheckBox(metaSqr.center, metaSqr.halfExtent);
-        }
-        else
-        {
-            return !Physics.CheckBox(metaSqr.center, metaSqr.halfExtent, metaSqr.rotation, LayerMask.GetMask("Square"));
-        }
+        return !Physics.CheckBox(metaSqr.center, metaSqr.halfExtent, metaSqr.rotation, LayerMask.GetMask("Square"));
     }
 }

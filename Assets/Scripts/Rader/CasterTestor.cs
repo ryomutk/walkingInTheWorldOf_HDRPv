@@ -17,14 +17,14 @@ public class CasterTestor : MonoBehaviour, IObserver
 
     public void Start()
     {
-        logger = new Logger("CastingLog","CASTTESTOR");
+        logger = new Logger("CastingLog", "CASTTESTOR");
 
         logger.LogLine("\n\n\n");
         logger.Log("LOG START!!");
 
         finder = new PathFinder();
         mapper = SquareMapper.instance;
-        doorwayStomper = new Detector<Doorway>(transform, Vector3.down,LayerMask.GetMask("Block"));
+        doorwayStomper = new Detector<Doorway>(transform, Vector3.down, LayerMask.GetMask("Block"));
         playerInput = transform.GetComponent<PlayerInputHandler>();
         playerInput.AddObserver(this);
     }
@@ -52,7 +52,7 @@ public class CasterTestor : MonoBehaviour, IObserver
             logger.Log("SQR COORD: " + sqr.coordinate + "MATH COORD: " + coord);
         }
 
-        var nowDoor = doorwayStomper.Stomp();
+        doorwayStomper.Scan(3, out var nowDoor);
         Vector3Int? direction;
 
         if (nowDoor != null && (direction = nowDoor.CheckAvalableDirection()) != null)
@@ -60,8 +60,8 @@ public class CasterTestor : MonoBehaviour, IObserver
             logger.Log("FINDING DOOR...");
             if (sqr == null)
             {
-                logger.LogError("!!ERROR!! SQUARE IS NULL",true);
-                return ;
+                logger.LogError("!!ERROR!! SQUARE IS NULL", true);
+                return;
             }
             else
             {
@@ -83,10 +83,20 @@ public class CasterTestor : MonoBehaviour, IObserver
                 logger.LogLine(string.Format("     DOORWAY POS:{0}  DIRECTION:{1}", targetDoor.transform.position, targetDoor.avalableDirection));
 
                 var rawPath = targetDoor.transform.position - nowDoor.transform.position;
-                var path =  Quaternion.FromToRotation(nowDoor.avalableDirection.Value,Vector3.zero)* rawPath;
+                var path = Quaternion.FromToRotation(nowDoor.avalableDirection.Value, Vector3.zero) * rawPath;
+                var endDirVec = Quaternion.FromToRotation((Vector3)nowDoor.avalableDirection,Vector3.forward)*targetDoor.avalableDirection;
                 var endDirection = MathOfWorld.GetDirection(targetDoor.avalableDirection.Value - nowDoor.avalableDirection.Value);
-                var data = RoadServer.instance.GetRoadsByPath(path,endDirection);
-                RoadBuilder.instance.BuildRoad(data,nowDoor.transform.position,Quaternion.Euler(nowDoor.avalableDirection.Value));
+                var data = RoadServer.instance.GetRoadsByPath(path, endDirection);
+
+                if (data == null)
+                {
+                    logger.LogLine("FAILED TO MAKE ROAD");
+                }
+                else
+                {
+                    logger.LogLine("SUCCESS! MAKING ROAD");
+                    RoadBuilder.instance.BuildRoad(data, nowDoor.transform.position, Quaternion.Euler(nowDoor.avalableDirection.Value));
+                }
 
             }
             else
