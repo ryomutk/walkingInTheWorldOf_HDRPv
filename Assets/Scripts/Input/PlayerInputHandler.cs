@@ -109,7 +109,7 @@ namespace InputSystem
             while (active)
             {
                 Forward();
-                yield return new WaitUntil(() => Clock.instance.Signal);
+                yield return null;
             }
         }
 
@@ -129,7 +129,7 @@ namespace InputSystem
                 }
                 else
                 {
-                    yield return new WaitUntil(() => Clock.instance.Signal);
+                    yield return null;
                 }
             }
         }
