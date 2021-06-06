@@ -2125,3 +2125,287 @@
 09:39:36  StandardRoadSet line:18: Resources authorized!
 09:40:14  StandardRoadSet line:18: Resources authorized!
 09:41:18  StandardRoadSet line:18: Resources authorized!
+09:48:23  StandardRoadSet line:18: Resources authorized!
+09:48:23  StandardRoadSet line:18: Resources authorized!
+09:48:54  StandardRoadSet line:18: Resources authorized!
+09:50:02  StandardRoadSet line:18: Resources authorized!
+10:17:56  StandardRoadSet line:18: Resources authorized!
+10:18:15  StandardRoadSet line:18: Resources authorized!
+10:18:45  StandardRoadSet line:18: Resources authorized!
+10:19:07  StandardRoadSet line:18: Resources authorized!
+10:20:03  StandardRoadSet line:18: Resources authorized!
+10:20:21  StandardRoadSet line:18: Resources authorized!
+10:24:01  StandardRoadSet line:18: Resources authorized!
+10:24:05  StandardRoadSet line:18: Resources authorized!
+10:25:13  StandardRoadSet line:18: Resources authorized!
+10:32:09  StandardRoadSet line:18: Resources authorized!
+10:32:14  StandardRoadSet line:18: Resources authorized!
+10:33:53  StandardRoadSet line:18: Resources authorized!
+10:34:20  StandardRoadSet line:18: Resources authorized!
+10:34:27  StandardRoadSet line:18: Resources authorized!
+10:38:28  StandardRoadSet line:18: Resources authorized!
+10:38:32  StandardRoadSet line:18: Resources authorized!
+10:39:30  StandardRoadSet line:18: Resources authorized!
+10:39:37  StandardRoadSet line:18: Resources authorized!
+10:42:22  StandardRoadSet line:18: Resources authorized!
+10:42:26  StandardRoadSet line:18: Resources authorized!
+10:43:46  ROAD SERVER line:56: START: creating path set
+                     57:PATH:(2, 0, 14)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+10:43:46  ROAD DATA line:43: now modpath is(0, 0, 16)
+                    250:ROAD CREATION COMPLEATED WITH undefinedPath:(2, 0, -2)
+10:43:46  ROAD BUILDER line:44: BUILD START!
+                      59:SET: on position:(104.0, 0.0, 17.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 18.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 19.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 20.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 21.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 22.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 23.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 24.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 25.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 26.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+10:43:47  ROAD SERVER line:56: START: creating path set
+                     57:PATH:(-2, 0, 46)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+                   96:Added road of path(0, 0, 1)
+10:43:47  ROAD DATA line:43: now modpath is(0, 0, 48)
+                    250:ROAD CREATION COMPLEATED WITH undefinedPath:(-2, 0, -2)
+10:43:47  ROAD BUILDER line:44: BUILD START!
+                      59:SET: on position:(104.0, 0.0, 17.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 27.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 18.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 28.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 19.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 29.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 20.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 30.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 21.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 31.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 22.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 32.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 23.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      69:ROAD BUILT!
+                      59:SET: on position:(104.0, 0.0, 24.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 25.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 26.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 27.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 28.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 29.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 30.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 31.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 32.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 33.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 34.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 35.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 36.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 37.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 38.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 39.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 40.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 41.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 42.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 43.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 44.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 45.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 46.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 47.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 48.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 49.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 50.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 51.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 52.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 53.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 54.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 55.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 56.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 57.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 58.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 59.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 60.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 61.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 62.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 63.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(104.0, 0.0, 64.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      69:ROAD BUILT!
+10:44:08  ROAD SERVER line:56: START: creating path set
+                     57:PATH:(-11, 0, 28)
+                   96:Added road of path(-3, 0, 4)
+                   96:Added road of path(4, 0, 3)
+10:44:08  ROAD DATA line:43: now modpath is(-6, 0, 8)
+                    122:REPORT: turns set! undefined path is now(-17, 0, 36)
+                  119:Inserted road of path(0, 0, 1) in index:0
+                  119:Inserted road of path(0, 0, 1) in index:1
+                  119:Inserted road of path(0, 0, 1) in index:2
+                  119:Inserted road of path(0, 0, 1) in index:3
+                  119:Inserted road of path(0, 0, 1) in index:4
+                  119:Inserted road of path(0, 0, 1) in index:5
+                  119:Inserted road of path(0, 0, 1) in index:6
+                  119:Inserted road of path(0, 0, 1) in index:7
+                  119:Inserted road of path(0, 0, 1) in index:8
+                  119:Inserted road of path(0, 0, 1) in index:9
+                  119:Inserted road of path(0, 0, 1) in index:10
+                  119:Inserted road of path(0, 0, 1) in index:11
+                  119:Inserted road of path(0, 0, 1) in index:12
+                  119:Inserted road of path(0, 0, 1) in index:13
+                  119:Inserted road of path(0, 0, 1) in index:14
+                  119:Inserted road of path(0, 0, 1) in index:15
+                  119:Inserted road of path(0, 0, 1) in index:16
+                  119:Inserted road of path(0, 0, 1) in index:17
+                  119:Inserted road of path(0, 0, 1) in index:19
+                  119:Inserted road of path(0, 0, 1) in index:21
+                  119:Inserted road of path(0, 0, 1) in index:22
+                  119:Inserted road of path(0, 0, 1) in index:23
+                  119:Inserted road of path(0, 0, 1) in index:24
+                  119:Inserted road of path(0, 0, 1) in index:25
+                  119:Inserted road of path(0, 0, 1) in index:26
+                  119:Inserted road of path(0, 0, 1) in index:27
+                  119:Inserted road of path(0, 0, 1) in index:28
+                  119:Inserted road of path(0, 0, 1) in index:29
+                  119:Inserted road of path(0, 0, 1) in index:30
+                  119:Inserted road of path(0, 0, 1) in index:31
+                  119:Inserted road of path(0, 0, 1) in index:32
+                  119:Inserted road of path(0, 0, 1) in index:33
+                  119:Inserted road of path(0, 0, 1) in index:34
+                  119:Inserted road of path(0, 0, 1) in index:35
+                  119:Inserted road of path(0, 0, 1) in index:36
+                  119:Inserted road of path(0, 0, 1) in index:37
+                  119:Inserted road of path(0, 0, 1) in index:38
+                  119:Inserted road of path(0, 0, 1) in index:39
+                  119:Inserted road of path(0, 0, 1) in index:40
+                  119:Inserted road of path(0, 0, 1) in index:41
+                  119:Inserted road of path(0, 0, 1) in index:42
+                  119:Inserted road of path(0, 0, 1) in index:43
+                  119:Inserted road of path(0, 0, 1) in index:44
+                  119:Inserted road of path(0, 0, 1) in index:45
+                  119:Inserted road of path(0, 0, 1) in index:46
+                  119:Inserted road of path(0, 0, 1) in index:47
+                  119:Inserted road of path(0, 0, 1) in index:48
+                  119:Inserted road of path(0, 0, 1) in index:49
+                  119:Inserted road of path(0, 0, 1) in index:50
+                  119:Inserted road of path(0, 0, 1) in index:51
+                  119:Inserted road of path(0, 0, 1) in index:52
+                  119:Inserted road of path(0, 0, 1) in index:53
+                  119:Inserted road of path(0, 0, 1) in index:54
+10:44:08  ROAD DATA line:43: now modpath is(-7, 0, 60)
+                    250:ROAD CREATION COMPLEATED WITH undefinedPath:(-10, 0, -24)
+10:44:08  ROAD BUILDER line:44: BUILD START!
+                      59:SET: on position:(113.0, 0.0, 35.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(113.0, 0.0, 36.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(113.0, 0.0, 37.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(113.0, 0.0, 38.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(113.0, 0.0, 39.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(113.0, 0.0, 40.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(113.0, 0.0, 41.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(113.0, 0.0, 42.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(113.0, 0.0, 43.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(113.0, 0.0, 44.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(113.0, 0.0, 45.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(113.0, 0.0, 46.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(113.0, 0.0, 47.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(113.0, 0.0, 48.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(113.0, 0.0, 49.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(113.0, 0.0, 50.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(113.0, 0.0, 51.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(113.0, 0.0, 52.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(113.0, 0.0, 53.0)  path(modified):(-3.0, 0.0, 4.0)    rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(110.0, 0.0, 57.0)  path(modified):(-1.0, 0.0, 0.0)    rotation:(0.0, 270.0, 0.0)
+                      59:SET: on position:(109.0, 0.0, 57.0)  path(modified):(-3.0, 0.0, 4.0)    rotation:(0.0, 270.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 61.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 62.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 63.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 64.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 65.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 66.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 67.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 68.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 69.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 70.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 71.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 72.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 73.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 74.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 75.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 76.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 77.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 78.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 79.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 80.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 81.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 82.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 83.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 84.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 85.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 86.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 87.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 88.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 89.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 90.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 91.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 92.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 93.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      59:SET: on position:(106.0, 0.0, 94.0)  path(modified):(0.0, 0.0, 1.0)     rotation:(0.0, 0.0, 0.0)
+                      69:ROAD BUILT!
+10:52:13  StandardRoadSet line:18: Resources authorized!
+12:23:31  StandardRoadSet line:18: Resources authorized!

@@ -34757,3 +34757,743 @@
 02:31:53  Square(Clone)3:CollidorStructure(Clone)3
 02:35:56  SQUARE POOL INITIALIZED
 09:41:20  SQUARE POOL INITIALIZED
+09:48:55  SQUARE POOL INITIALIZED
+09:49:31  SQUARE:Square(Clone)0 BUILT.  USED:DualCollidorStructure(Clone)0
+09:49:31  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:31  SquareOptimizer line:28: Square(Clone)0:HIDE BEGIN
+09:49:31  SquareOptimizer line:62: Square(Clone)0:DualCollidorStructure(Clone)0
+09:49:31  SQUARE:Square(Clone)1 BUILT.  USED:CollidorStructure(Clone)0
+09:49:31  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:31  SquareOptimizer line:28: Square(Clone)1:HIDE BEGIN
+09:49:31  SquareOptimizer line:62: Square(Clone)1:CollidorStructure(Clone)0
+09:49:31  SQUARE:Square(Clone)2 BUILT.  USED:DualCollidorStructure(Clone)1
+09:49:31  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:31  SquareOptimizer line:28: Square(Clone)2:HIDE BEGIN
+09:49:31  SquareOptimizer line:62: Square(Clone)2:DualCollidorStructure(Clone)1
+09:49:31  SQUARE:Square(Clone)3 BUILT.  USED:DualCollidorStructure(Clone)2
+09:49:31  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:31  SquareOptimizer line:28: Square(Clone)3:HIDE BEGIN
+09:49:31  SquareOptimizer line:62: Square(Clone)3:DualCollidorStructure(Clone)2
+09:49:31  SQUARE:Square(Clone)4 BUILT.  USED:DualCollidorStructure(Clone)3
+09:49:31  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:31  SquareOptimizer line:28: Square(Clone)4:HIDE BEGIN
+09:49:31  SquareOptimizer line:62: Square(Clone)4:DualCollidorStructure(Clone)3
+09:49:32  SQUARE:Square(Clone)5 BUILT.  USED:DualCollidorStructure(Clone)4
+09:49:32  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:32  SquareOptimizer line:28: Square(Clone)5:HIDE BEGIN
+09:49:32  SquareOptimizer line:62: Square(Clone)5:DualCollidorStructure(Clone)4
+09:49:32  SQUARE:Square(Clone)6 BUILT.  USED:CollidorStructure(Clone)1
+09:49:32  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:32  SquareOptimizer line:28: Square(Clone)6:HIDE BEGIN
+09:49:32  SquareOptimizer line:62: Square(Clone)6:CollidorStructure(Clone)1
+09:49:32  SQUARE:Square(Clone)7 BUILT.  USED:CollidorStructure(Clone)2
+09:49:32  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:32  SquareOptimizer line:28: Square(Clone)7:HIDE BEGIN
+09:49:32  SquareOptimizer line:62: Square(Clone)7:CollidorStructure(Clone)2
+09:49:32  SQUARE:Square(Clone)8 BUILT.  USED:CollidorStructure(Clone)3
+09:49:32  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:32  SquareOptimizer line:28: Square(Clone)8:HIDE BEGIN
+09:49:32  SquareOptimizer line:62: Square(Clone)8:CollidorStructure(Clone)3
+09:49:32  SQUARE:Square(Clone)9 BUILT.  USED:CollidorStructure(Clone)4
+09:49:32  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:32  SquareOptimizer line:28: Square(Clone)9:HIDE BEGIN
+09:49:32  SquareOptimizer line:62: Square(Clone)9:CollidorStructure(Clone)4
+09:49:32  SQUARE:Square(Clone)10 BUILT.  USED:CollidorStructure(Clone)5
+09:49:32  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:32  SquareOptimizer line:28: Square(Clone)10:HIDE BEGIN
+09:49:32  SquareOptimizer line:62: Square(Clone)10:CollidorStructure(Clone)5
+09:49:32  SQUARE:Square(Clone)11 BUILT.  USED:CollidorStructure(Clone)6
+09:49:32  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:32  SquareOptimizer line:28: Square(Clone)11:HIDE BEGIN
+09:49:32  SquareOptimizer line:62: Square(Clone)11:CollidorStructure(Clone)6
+09:49:32  SQUARE:Square(Clone)12 BUILT.  USED:DualCollidorStructure(Clone)5
+09:49:32  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:32  SquareOptimizer line:28: Square(Clone)12:HIDE BEGIN
+09:49:32  SquareOptimizer line:62: Square(Clone)12:DualCollidorStructure(Clone)5
+09:49:32  SQUARE:Square(Clone)13 BUILT.  USED:DualCollidorStructure(Clone)6
+09:49:32  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:32  SquareOptimizer line:28: Square(Clone)13:HIDE BEGIN
+09:49:32  SquareOptimizer line:62: Square(Clone)13:DualCollidorStructure(Clone)6
+09:49:32  SQUARE:Square(Clone)14 BUILT.  USED:DualCollidorStructure(Clone)7
+09:49:32  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:32  SquareOptimizer line:28: Square(Clone)14:HIDE BEGIN
+09:49:32  SquareOptimizer line:62: Square(Clone)14:DualCollidorStructure(Clone)7
+09:49:32  SQUARE:Square(Clone)15 BUILT.  USED:CollidorStructure(Clone)7
+09:49:32  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:32  SquareOptimizer line:28: Square(Clone)15:HIDE BEGIN
+09:49:32  SquareOptimizer line:62: Square(Clone)15:CollidorStructure(Clone)7
+09:49:32  SQUARE:Square(Clone)16 BUILT.  USED:CollidorStructure(Clone)8
+09:49:32  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:32  SquareOptimizer line:28: Square(Clone)16:HIDE BEGIN
+09:49:32  SquareOptimizer line:62: Square(Clone)16:CollidorStructure(Clone)8
+09:49:32  SQUARE:Square(Clone)17 BUILT.  USED:CollidorStructure(Clone)9
+09:49:32  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:32  SquareOptimizer line:28: Square(Clone)17:HIDE BEGIN
+09:49:32  SquareOptimizer line:62: Square(Clone)17:CollidorStructure(Clone)9
+09:49:33  SQUARE:Square(Clone)18 BUILT.  USED:CollidorStructure(Clone)10
+09:49:33  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:33  SquareOptimizer line:28: Square(Clone)18:HIDE BEGIN
+09:49:33  SquareOptimizer line:62: Square(Clone)18:CollidorStructure(Clone)10
+09:49:33  SQUARE:Square(Clone)19 BUILT.  USED:CollidorStructure(Clone)11
+09:49:33  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:33  SquareOptimizer line:28: Square(Clone)19:HIDE BEGIN
+09:49:33  SquareOptimizer line:62: Square(Clone)19:CollidorStructure(Clone)11
+09:49:33  SQUARE:Square(Clone)20 BUILT.  USED:DualCollidorStructure(Clone)8
+09:49:33  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:33  SquareOptimizer line:28: Square(Clone)20:HIDE BEGIN
+09:49:33  SquareOptimizer line:62: Square(Clone)20:DualCollidorStructure(Clone)8
+09:49:33  SQUARE:Square(Clone)21 BUILT.  USED:DualCollidorStructure(Clone)9
+09:49:33  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:33  SquareOptimizer line:28: Square(Clone)21:HIDE BEGIN
+09:49:33  SquareOptimizer line:62: Square(Clone)21:DualCollidorStructure(Clone)9
+09:49:33  SQUARE:Square(Clone)22 BUILT.  USED:CollidorStructure(Clone)12
+09:49:33  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:33  SquareOptimizer line:28: Square(Clone)22:HIDE BEGIN
+09:49:33  SquareOptimizer line:62: Square(Clone)22:CollidorStructure(Clone)12
+09:49:33  SQUARE:Square(Clone)23 BUILT.  USED:DualCollidorStructure(Clone)10
+09:49:33  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:33  SquareOptimizer line:28: Square(Clone)23:HIDE BEGIN
+09:49:33  SquareOptimizer line:62: Square(Clone)23:DualCollidorStructure(Clone)10
+09:49:33  SQUARE:Square(Clone)24 BUILT.  USED:CollidorStructure(Clone)13
+09:49:33  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:33  SquareOptimizer line:28: Square(Clone)24:HIDE BEGIN
+09:49:33  SquareOptimizer line:62: Square(Clone)24:CollidorStructure(Clone)13
+09:49:33  SQUARE:Square(Clone)25 BUILT.  USED:CollidorStructure(Clone)14
+09:49:33  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:33  SquareOptimizer line:28: Square(Clone)25:HIDE BEGIN
+09:49:33  SquareOptimizer line:62: Square(Clone)25:CollidorStructure(Clone)14
+09:49:33  SQUARE:Square(Clone)26 BUILT.  USED:CollidorStructure(Clone)15
+09:49:33  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:33  SquareOptimizer line:28: Square(Clone)26:HIDE BEGIN
+09:49:33  SquareOptimizer line:62: Square(Clone)26:CollidorStructure(Clone)15
+09:49:33  SQUARE:Square(Clone)27 BUILT.  USED:CollidorStructure(Clone)16
+09:49:33  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:33  SquareOptimizer line:28: Square(Clone)27:HIDE BEGIN
+09:49:33  SquareOptimizer line:62: Square(Clone)27:CollidorStructure(Clone)16
+09:49:33  SQUARE:Square(Clone)28 BUILT.  USED:DualCollidorStructure(Clone)11
+09:49:33  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:33  SquareOptimizer line:28: Square(Clone)28:HIDE BEGIN
+09:49:33  SquareOptimizer line:62: Square(Clone)28:DualCollidorStructure(Clone)11
+09:49:33  SQUARE:Square(Clone)29 BUILT.  USED:CollidorStructure(Clone)17
+09:49:33  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:33  SquareOptimizer line:28: Square(Clone)29:HIDE BEGIN
+09:49:33  SquareOptimizer line:62: Square(Clone)29:CollidorStructure(Clone)17
+09:49:34  SQUARE:Square(Clone)30 BUILT.  USED:CollidorStructure(Clone)18
+09:49:34  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:34  SquareOptimizer line:28: Square(Clone)30:HIDE BEGIN
+09:49:34  SquareOptimizer line:62: Square(Clone)30:CollidorStructure(Clone)18
+09:49:34  SQUARE:Square(Clone)31 BUILT.  USED:DualCollidorStructure(Clone)12
+09:49:34  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:34  SquareOptimizer line:28: Square(Clone)31:HIDE BEGIN
+09:49:34  SquareOptimizer line:62: Square(Clone)31:DualCollidorStructure(Clone)12
+09:49:34  SQUARE:Square(Clone)32 BUILT.  USED:CollidorStructure(Clone)19
+09:49:34  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:34  SquareOptimizer line:28: Square(Clone)32:HIDE BEGIN
+09:49:34  SquareOptimizer line:62: Square(Clone)32:CollidorStructure(Clone)19
+09:49:34  SQUARE:Square(Clone)33 BUILT.  USED:CollidorStructure(Clone)20
+09:49:34  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:34  SquareOptimizer line:28: Square(Clone)33:HIDE BEGIN
+09:49:34  SquareOptimizer line:62: Square(Clone)33:CollidorStructure(Clone)20
+09:49:34  SQUARE:Square(Clone)34 BUILT.  USED:DualCollidorStructure(Clone)13
+09:49:34  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:34  SquareOptimizer line:28: Square(Clone)34:HIDE BEGIN
+09:49:34  SquareOptimizer line:62: Square(Clone)34:DualCollidorStructure(Clone)13
+09:49:34  SQUARE:Square(Clone)35 BUILT.  USED:DualCollidorStructure(Clone)14
+09:49:34  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:34  SquareOptimizer line:28: Square(Clone)35:HIDE BEGIN
+09:49:34  SquareOptimizer line:62: Square(Clone)35:DualCollidorStructure(Clone)14
+09:49:34  SQUARE:Square(Clone)36 BUILT.  USED:CollidorStructure(Clone)21
+09:49:34  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:34  SquareOptimizer line:28: Square(Clone)36:HIDE BEGIN
+09:49:34  SquareOptimizer line:62: Square(Clone)36:CollidorStructure(Clone)21
+09:49:34  SQUARE:Square(Clone)37 BUILT.  USED:DualCollidorStructure(Clone)15
+09:49:34  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:34  SquareOptimizer line:28: Square(Clone)37:HIDE BEGIN
+09:49:34  SquareOptimizer line:62: Square(Clone)37:DualCollidorStructure(Clone)15
+09:49:34  SQUARE:Square(Clone)38 BUILT.  USED:CollidorStructure(Clone)22
+09:49:34  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:34  SquareOptimizer line:28: Square(Clone)38:HIDE BEGIN
+09:49:34  SquareOptimizer line:62: Square(Clone)38:CollidorStructure(Clone)22
+09:49:34  SQUARE:Square(Clone)39 BUILT.  USED:DualCollidorStructure(Clone)16
+09:49:34  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:34  SquareOptimizer line:28: Square(Clone)39:HIDE BEGIN
+09:49:34  SquareOptimizer line:62: Square(Clone)39:DualCollidorStructure(Clone)16
+09:49:34  SQUARE:Square(Clone)40 BUILT.  USED:CollidorStructure(Clone)23
+09:49:34  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:34  SquareOptimizer line:28: Square(Clone)40:HIDE BEGIN
+09:49:34  SquareOptimizer line:62: Square(Clone)40:CollidorStructure(Clone)23
+09:49:34  SQUARE:Square(Clone)41 BUILT.  USED:CollidorStructure(Clone)24
+09:49:34  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:34  SquareOptimizer line:28: Square(Clone)41:HIDE BEGIN
+09:49:34  SquareOptimizer line:62: Square(Clone)41:CollidorStructure(Clone)24
+09:49:35  SQUARE:Square(Clone)42 BUILT.  USED:DualCollidorStructure(Clone)17
+09:49:35  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:35  SquareOptimizer line:28: Square(Clone)42:HIDE BEGIN
+09:49:35  SquareOptimizer line:62: Square(Clone)42:DualCollidorStructure(Clone)17
+09:49:35  SQUARE:Square(Clone)43 BUILT.  USED:CollidorStructure(Clone)25
+09:49:35  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:35  SquareOptimizer line:28: Square(Clone)43:HIDE BEGIN
+09:49:35  SquareOptimizer line:62: Square(Clone)43:CollidorStructure(Clone)25
+09:49:35  SQUARE:Square(Clone)44 BUILT.  USED:CollidorStructure(Clone)26
+09:49:35  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:35  SquareOptimizer line:28: Square(Clone)44:HIDE BEGIN
+09:49:35  SquareOptimizer line:62: Square(Clone)44:CollidorStructure(Clone)26
+09:49:35  SQUARE:Square(Clone)45 BUILT.  USED:DualCollidorStructure(Clone)18
+09:49:35  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:35  SquareOptimizer line:28: Square(Clone)45:HIDE BEGIN
+09:49:35  SquareOptimizer line:62: Square(Clone)45:DualCollidorStructure(Clone)18
+09:49:35  SQUARE:Square(Clone)46 BUILT.  USED:DualCollidorStructure(Clone)19
+09:49:35  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:35  SquareOptimizer line:28: Square(Clone)46:HIDE BEGIN
+09:49:35  SquareOptimizer line:62: Square(Clone)46:DualCollidorStructure(Clone)19
+09:49:35  SQUARE:Square(Clone)47 BUILT.  USED:DualCollidorStructure(Clone)20
+09:49:35  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:35  SquareOptimizer line:28: Square(Clone)47:HIDE BEGIN
+09:49:35  SquareOptimizer line:62: Square(Clone)47:DualCollidorStructure(Clone)20
+09:49:35  SQUARE:Square(Clone)48 BUILT.  USED:DualCollidorStructure(Clone)21
+09:49:35  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:35  SquareOptimizer line:28: Square(Clone)48:HIDE BEGIN
+09:49:35  SquareOptimizer line:62: Square(Clone)48:DualCollidorStructure(Clone)21
+09:49:35  SQUARE:Square(Clone)49 BUILT.  USED:DualCollidorStructure(Clone)22
+09:49:35  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:35  SquareOptimizer line:28: Square(Clone)49:HIDE BEGIN
+09:49:36  SquareOptimizer line:62: Square(Clone)49:DualCollidorStructure(Clone)22
+09:49:36  SQUARE:Square(Clone)50 BUILT.  USED:DualCollidorStructure(Clone)23
+09:49:36  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:36  SquareOptimizer line:28: Square(Clone)50:HIDE BEGIN
+09:49:36  SquareOptimizer line:62: Square(Clone)50:DualCollidorStructure(Clone)23
+09:49:36  SQUARE:Square(Clone)51 BUILT.  USED:CollidorStructure(Clone)27
+09:49:36  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:36  SquareOptimizer line:28: Square(Clone)51:HIDE BEGIN
+09:49:36  SquareOptimizer line:62: Square(Clone)51:CollidorStructure(Clone)27
+09:49:36  SQUARE:Square(Clone)52 BUILT.  USED:DualCollidorStructure(Clone)24
+09:49:36  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:36  SquareOptimizer line:28: Square(Clone)52:HIDE BEGIN
+09:49:36  SquareOptimizer line:62: Square(Clone)52:DualCollidorStructure(Clone)24
+09:49:36  SQUARE:Square(Clone)53 BUILT.  USED:DualCollidorStructure(Clone)25
+09:49:36  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:36  SquareOptimizer line:28: Square(Clone)53:HIDE BEGIN
+09:49:36  SquareOptimizer line:62: Square(Clone)53:DualCollidorStructure(Clone)25
+09:49:36  SQUARE:Square(Clone)54 BUILT.  USED:CollidorStructure(Clone)28
+09:49:36  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:36  SquareOptimizer line:28: Square(Clone)54:HIDE BEGIN
+09:49:36  SquareOptimizer line:62: Square(Clone)54:CollidorStructure(Clone)28
+09:49:36  SQUARE:Square(Clone)55 BUILT.  USED:CollidorStructure(Clone)29
+09:49:36  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:36  SquareOptimizer line:28: Square(Clone)55:HIDE BEGIN
+09:49:36  SquareOptimizer line:62: Square(Clone)55:CollidorStructure(Clone)29
+09:49:37  SQUARE:Square(Clone)56 BUILT.  USED:DualCollidorStructure(Clone)26
+09:49:37  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:37  SquareOptimizer line:28: Square(Clone)56:HIDE BEGIN
+09:49:37  SquareOptimizer line:62: Square(Clone)56:DualCollidorStructure(Clone)26
+09:49:37  SQUARE:Square(Clone)57 BUILT.  USED:DualCollidorStructure(Clone)27
+09:49:37  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:37  SquareOptimizer line:28: Square(Clone)57:HIDE BEGIN
+09:49:37  SquareOptimizer line:62: Square(Clone)57:DualCollidorStructure(Clone)27
+09:49:37  SQUARE:Square(Clone)58 BUILT.  USED:CollidorStructure(Clone)30
+09:49:37  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:37  SquareOptimizer line:28: Square(Clone)58:HIDE BEGIN
+09:49:37  SquareOptimizer line:62: Square(Clone)58:CollidorStructure(Clone)30
+09:49:37  SQUARE:Square(Clone)59 BUILT.  USED:DualCollidorStructure(Clone)28
+09:49:37  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:37  SquareOptimizer line:28: Square(Clone)59:HIDE BEGIN
+09:49:37  SquareOptimizer line:62: Square(Clone)59:DualCollidorStructure(Clone)28
+09:49:37  SQUARE:Square(Clone)60 BUILT.  USED:CollidorStructure(Clone)31
+09:49:37  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:37  SquareOptimizer line:28: Square(Clone)60:HIDE BEGIN
+09:49:37  SquareOptimizer line:62: Square(Clone)60:CollidorStructure(Clone)31
+09:49:38  SQUARE:Square(Clone)61 BUILT.  USED:CollidorStructure(Clone)32
+09:49:38  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:38  SquareOptimizer line:28: Square(Clone)61:HIDE BEGIN
+09:49:38  SquareOptimizer line:62: Square(Clone)61:CollidorStructure(Clone)32
+09:49:38  SQUARE:Square(Clone)62 BUILT.  USED:DualCollidorStructure(Clone)29
+09:49:38  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:38  SquareOptimizer line:28: Square(Clone)62:HIDE BEGIN
+09:49:38  SquareOptimizer line:62: Square(Clone)62:DualCollidorStructure(Clone)29
+09:49:38  SQUARE:Square(Clone)63 BUILT.  USED:DualCollidorStructure(Clone)30
+09:49:38  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:38  SquareOptimizer line:28: Square(Clone)63:HIDE BEGIN
+09:49:38  SquareOptimizer line:62: Square(Clone)63:DualCollidorStructure(Clone)30
+09:49:38  SQUARE:Square(Clone)64 BUILT.  USED:DualCollidorStructure(Clone)31
+09:49:38  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:38  SquareOptimizer line:28: Square(Clone)64:HIDE BEGIN
+09:49:38  SquareOptimizer line:62: Square(Clone)64:DualCollidorStructure(Clone)31
+09:49:38  SQUARE:Square(Clone)65 BUILT.  USED:CollidorStructure(Clone)33
+09:49:38  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:38  SquareOptimizer line:28: Square(Clone)65:HIDE BEGIN
+09:49:38  SquareOptimizer line:62: Square(Clone)65:CollidorStructure(Clone)33
+09:49:38  SQUARE:Square(Clone)66 BUILT.  USED:DualCollidorStructure(Clone)32
+09:49:38  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:38  SquareOptimizer line:28: Square(Clone)66:HIDE BEGIN
+09:49:38  SquareOptimizer line:62: Square(Clone)66:DualCollidorStructure(Clone)32
+09:49:39  SQUARE:Square(Clone)67 BUILT.  USED:CollidorStructure(Clone)34
+09:49:39  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:39  SquareOptimizer line:28: Square(Clone)67:HIDE BEGIN
+09:49:39  SquareOptimizer line:62: Square(Clone)67:CollidorStructure(Clone)34
+09:49:39  SQUARE:Square(Clone)68 BUILT.  USED:CollidorStructure(Clone)35
+09:49:39  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:39  SquareOptimizer line:28: Square(Clone)68:HIDE BEGIN
+09:49:39  SquareOptimizer line:62: Square(Clone)68:CollidorStructure(Clone)35
+09:49:39  SQUARE:Square(Clone)69 BUILT.  USED:CollidorStructure(Clone)36
+09:49:39  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:39  SquareOptimizer line:28: Square(Clone)69:HIDE BEGIN
+09:49:39  SquareOptimizer line:62: Square(Clone)69:CollidorStructure(Clone)36
+09:49:39  SQUARE:Square(Clone)70 BUILT.  USED:CollidorStructure(Clone)37
+09:49:39  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:39  SquareOptimizer line:28: Square(Clone)70:HIDE BEGIN
+09:49:39  SquareOptimizer line:62: Square(Clone)70:CollidorStructure(Clone)37
+09:49:39  SQUARE:Square(Clone)71 BUILT.  USED:CollidorStructure(Clone)38
+09:49:39  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:39  SquareOptimizer line:28: Square(Clone)71:HIDE BEGIN
+09:49:39  SquareOptimizer line:62: Square(Clone)71:CollidorStructure(Clone)38
+09:49:39  SQUARE:Square(Clone)72 BUILT.  USED:CollidorStructure(Clone)39
+09:49:39  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:39  SquareOptimizer line:28: Square(Clone)72:HIDE BEGIN
+09:49:39  SquareOptimizer line:62: Square(Clone)72:CollidorStructure(Clone)39
+09:49:39  SQUARE:Square(Clone)73 BUILT.  USED:DualCollidorStructure(Clone)33
+09:49:39  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:39  SquareOptimizer line:28: Square(Clone)73:HIDE BEGIN
+09:49:39  SquareOptimizer line:62: Square(Clone)73:DualCollidorStructure(Clone)33
+09:49:39  SQUARE:Square(Clone)74 BUILT.  USED:CollidorStructure(Clone)40
+09:49:39  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:39  SquareOptimizer line:28: Square(Clone)74:HIDE BEGIN
+09:49:39  SquareOptimizer line:62: Square(Clone)74:CollidorStructure(Clone)40
+09:49:39  SQUARE:Square(Clone)75 BUILT.  USED:CollidorStructure(Clone)41
+09:49:39  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:39  SquareOptimizer line:28: Square(Clone)75:HIDE BEGIN
+09:49:39  SquareOptimizer line:62: Square(Clone)75:CollidorStructure(Clone)41
+09:49:39  SQUARE:Square(Clone)76 BUILT.  USED:CollidorStructure(Clone)42
+09:49:39  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:39  SquareOptimizer line:28: Square(Clone)76:HIDE BEGIN
+09:49:39  SquareOptimizer line:62: Square(Clone)76:CollidorStructure(Clone)42
+09:49:40  SQUARE:Square(Clone)77 BUILT.  USED:DualCollidorStructure(Clone)34
+09:49:40  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:40  SquareOptimizer line:28: Square(Clone)77:HIDE BEGIN
+09:49:40  SquareOptimizer line:62: Square(Clone)77:DualCollidorStructure(Clone)34
+09:49:40  SQUARE:Square(Clone)78 BUILT.  USED:CollidorStructure(Clone)43
+09:49:40  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:40  SquareOptimizer line:28: Square(Clone)78:HIDE BEGIN
+09:49:40  SquareOptimizer line:62: Square(Clone)78:CollidorStructure(Clone)43
+09:49:40  SQUARE:Square(Clone)79 BUILT.  USED:CollidorStructure(Clone)44
+09:49:40  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:40  SquareOptimizer line:28: Square(Clone)79:HIDE BEGIN
+09:49:40  SquareOptimizer line:62: Square(Clone)79:CollidorStructure(Clone)44
+09:49:40  SQUARE:Square(Clone)80 BUILT.  USED:CollidorStructure(Clone)45
+09:49:40  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:40  SquareOptimizer line:28: Square(Clone)80:HIDE BEGIN
+09:49:40  SquareOptimizer line:62: Square(Clone)80:CollidorStructure(Clone)45
+09:49:40  SQUARE:Square(Clone)81 BUILT.  USED:CollidorStructure(Clone)46
+09:49:40  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:40  SquareOptimizer line:28: Square(Clone)81:HIDE BEGIN
+09:49:40  SquareOptimizer line:62: Square(Clone)81:CollidorStructure(Clone)46
+09:49:40  SQUARE:Square(Clone)82 BUILT.  USED:CollidorStructure(Clone)47
+09:49:40  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:40  SquareOptimizer line:28: Square(Clone)82:HIDE BEGIN
+09:49:40  SquareOptimizer line:62: Square(Clone)82:CollidorStructure(Clone)47
+09:49:40  SQUARE:Square(Clone)83 BUILT.  USED:CollidorStructure(Clone)48
+09:49:40  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:40  SquareOptimizer line:28: Square(Clone)83:HIDE BEGIN
+09:49:40  SquareOptimizer line:62: Square(Clone)83:CollidorStructure(Clone)48
+09:49:41  SQUARE:Square(Clone)84 BUILT.  USED:DualCollidorStructure(Clone)35
+09:49:41  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:41  SquareOptimizer line:28: Square(Clone)84:HIDE BEGIN
+09:49:41  SquareOptimizer line:62: Square(Clone)84:DualCollidorStructure(Clone)35
+09:49:41  SQUARE:Square(Clone)85 BUILT.  USED:CollidorStructure(Clone)49
+09:49:41  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:41  SquareOptimizer line:28: Square(Clone)85:HIDE BEGIN
+09:49:41  SquareOptimizer line:62: Square(Clone)85:CollidorStructure(Clone)49
+09:49:41  SQUARE:Square(Clone)86 BUILT.  USED:CollidorStructure(Clone)50
+09:49:41  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:41  SquareOptimizer line:28: Square(Clone)86:HIDE BEGIN
+09:49:41  SquareOptimizer line:62: Square(Clone)86:CollidorStructure(Clone)50
+09:49:41  SquareOptimizer line:62: Square(Clone)38:CollidorStructure(Clone)22
+09:49:41  SQUARE:Square(Clone)87 BUILT.  USED:DualCollidorStructure(Clone)36
+09:49:41  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:41  SquareOptimizer line:28: Square(Clone)87:HIDE BEGIN
+09:49:41  SquareOptimizer line:62: Square(Clone)87:DualCollidorStructure(Clone)36
+09:49:41  SQUARE:Square(Clone)88 BUILT.  USED:CollidorStructure(Clone)51
+09:49:41  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:41  SquareOptimizer line:28: Square(Clone)88:HIDE BEGIN
+09:49:41  SquareOptimizer line:62: Square(Clone)88:CollidorStructure(Clone)51
+09:49:41  SQUARE:Square(Clone)89 BUILT.  USED:CollidorStructure(Clone)52
+09:49:41  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:41  SquareOptimizer line:28: Square(Clone)89:HIDE BEGIN
+09:49:41  SquareOptimizer line:62: Square(Clone)89:CollidorStructure(Clone)52
+09:49:41  SQUARE:Square(Clone)90 BUILT.  USED:CollidorStructure(Clone)53
+09:49:41  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:41  SquareOptimizer line:28: Square(Clone)90:HIDE BEGIN
+09:49:41  SquareOptimizer line:62: Square(Clone)90:CollidorStructure(Clone)53
+09:49:42  SQUARE:Square(Clone)91 BUILT.  USED:CollidorStructure(Clone)54
+09:49:42  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:42  SquareOptimizer line:28: Square(Clone)91:HIDE BEGIN
+09:49:42  SquareOptimizer line:62: Square(Clone)91:CollidorStructure(Clone)54
+09:49:42  SQUARE:Square(Clone)92 BUILT.  USED:CollidorStructure(Clone)55
+09:49:42  SquareOptimizer line:24: ________________LOG START__________________________
+09:49:42  SquareOptimizer line:28: Square(Clone)92:HIDE BEGIN
+09:49:42  SquareOptimizer line:62: Square(Clone)92:CollidorStructure(Clone)55
+09:49:50  SquareOptimizer line:62: Square(Clone)70:CollidorStructure(Clone)37
+09:50:03  SQUARE POOL INITIALIZED
+10:18:17  SQUARE POOL INITIALIZED
+10:18:45  SQUARE POOL INITIALIZED
+10:19:07  SQUARE POOL INITIALIZED
+10:20:04  SQUARE POOL INITIALIZED
+10:20:21  SQUARE POOL INITIALIZED
+10:24:05  SQUARE POOL INITIALIZED
+10:25:13  SQUARE POOL INITIALIZED
+10:32:14  SQUARE POOL INITIALIZED
+10:34:27  SQUARE POOL INITIALIZED
+10:38:33  SQUARE POOL INITIALIZED
+10:39:38  SQUARE POOL INITIALIZED
+10:42:27  SQUARE POOL INITIALIZED
+10:43:08  SQUARE:Square(Clone)0 BUILT.  USED:DualCollidorStructure(Clone)0
+10:43:08  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:08  SquareOptimizer line:28: Square(Clone)0:HIDE BEGIN
+10:43:08  SquareOptimizer line:62: Square(Clone)0:DualCollidorStructure(Clone)0
+10:43:08  SQUARE:Square(Clone)1 BUILT.  USED:CollidorStructure(Clone)0
+10:43:08  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:08  SquareOptimizer line:28: Square(Clone)1:HIDE BEGIN
+10:43:08  SquareOptimizer line:62: Square(Clone)1:CollidorStructure(Clone)0
+10:43:08  SQUARE:Square(Clone)2 BUILT.  USED:DualCollidorStructure(Clone)1
+10:43:08  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:08  SquareOptimizer line:28: Square(Clone)2:HIDE BEGIN
+10:43:08  SquareOptimizer line:62: Square(Clone)2:DualCollidorStructure(Clone)1
+10:43:08  SQUARE:Square(Clone)3 BUILT.  USED:DualCollidorStructure(Clone)2
+10:43:08  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:08  SquareOptimizer line:28: Square(Clone)3:HIDE BEGIN
+10:43:08  SquareOptimizer line:62: Square(Clone)3:DualCollidorStructure(Clone)2
+10:43:08  SQUARE:Square(Clone)4 BUILT.  USED:CollidorStructure(Clone)1
+10:43:08  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:08  SquareOptimizer line:28: Square(Clone)4:HIDE BEGIN
+10:43:08  SquareOptimizer line:62: Square(Clone)4:CollidorStructure(Clone)1
+10:43:09  SQUARE:Square(Clone)5 BUILT.  USED:CollidorStructure(Clone)2
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)5:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)5:CollidorStructure(Clone)2
+10:43:09  SQUARE:Square(Clone)6 BUILT.  USED:DualCollidorStructure(Clone)3
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)6:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)6:DualCollidorStructure(Clone)3
+10:43:09  SQUARE:Square(Clone)7 BUILT.  USED:DualCollidorStructure(Clone)4
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)7:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)7:DualCollidorStructure(Clone)4
+10:43:09  SQUARE:Square(Clone)8 BUILT.  USED:DualCollidorStructure(Clone)5
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)8:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)8:DualCollidorStructure(Clone)5
+10:43:09  SQUARE:Square(Clone)9 BUILT.  USED:CollidorStructure(Clone)3
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)9:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)9:CollidorStructure(Clone)3
+10:43:09  SQUARE:Square(Clone)10 BUILT.  USED:DualCollidorStructure(Clone)6
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)10:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)10:DualCollidorStructure(Clone)6
+10:43:09  SQUARE:Square(Clone)11 BUILT.  USED:DualCollidorStructure(Clone)7
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)11:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)11:DualCollidorStructure(Clone)7
+10:43:09  SQUARE:Square(Clone)12 BUILT.  USED:CollidorStructure(Clone)4
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)12:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)12:CollidorStructure(Clone)4
+10:43:09  SQUARE:Square(Clone)13 BUILT.  USED:CollidorStructure(Clone)5
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)13:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)13:CollidorStructure(Clone)5
+10:43:09  SQUARE:Square(Clone)14 BUILT.  USED:CollidorStructure(Clone)6
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)14:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)14:CollidorStructure(Clone)6
+10:43:09  SQUARE:Square(Clone)15 BUILT.  USED:CollidorStructure(Clone)7
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)15:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)15:CollidorStructure(Clone)7
+10:43:09  SQUARE:Square(Clone)16 BUILT.  USED:CollidorStructure(Clone)8
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)16:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)16:CollidorStructure(Clone)8
+10:43:09  SQUARE:Square(Clone)17 BUILT.  USED:CollidorStructure(Clone)9
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)17:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)17:CollidorStructure(Clone)9
+10:43:09  SQUARE:Square(Clone)18 BUILT.  USED:DualCollidorStructure(Clone)8
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)18:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)18:DualCollidorStructure(Clone)8
+10:43:09  SQUARE:Square(Clone)19 BUILT.  USED:DualCollidorStructure(Clone)9
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)19:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)19:DualCollidorStructure(Clone)9
+10:43:09  SQUARE:Square(Clone)20 BUILT.  USED:CollidorStructure(Clone)10
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)20:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)20:CollidorStructure(Clone)10
+10:43:09  SQUARE:Square(Clone)21 BUILT.  USED:CollidorStructure(Clone)11
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)21:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)21:CollidorStructure(Clone)11
+10:43:09  SQUARE:Square(Clone)22 BUILT.  USED:DualCollidorStructure(Clone)10
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)22:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)22:DualCollidorStructure(Clone)10
+10:43:09  SQUARE:Square(Clone)23 BUILT.  USED:DualCollidorStructure(Clone)11
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)23:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)23:DualCollidorStructure(Clone)11
+10:43:09  SQUARE:Square(Clone)24 BUILT.  USED:CollidorStructure(Clone)12
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)24:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)24:CollidorStructure(Clone)12
+10:43:09  SQUARE:Square(Clone)25 BUILT.  USED:DualCollidorStructure(Clone)12
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)25:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)25:DualCollidorStructure(Clone)12
+10:43:09  SQUARE:Square(Clone)26 BUILT.  USED:CollidorStructure(Clone)13
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)26:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)26:CollidorStructure(Clone)13
+10:43:09  SQUARE:Square(Clone)27 BUILT.  USED:CollidorStructure(Clone)14
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)27:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)27:CollidorStructure(Clone)14
+10:43:09  SQUARE:Square(Clone)28 BUILT.  USED:CollidorStructure(Clone)15
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)28:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)28:CollidorStructure(Clone)15
+10:43:09  SQUARE:Square(Clone)29 BUILT.  USED:CollidorStructure(Clone)16
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)29:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)29:CollidorStructure(Clone)16
+10:43:09  SQUARE:Square(Clone)30 BUILT.  USED:DualCollidorStructure(Clone)13
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)30:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)30:DualCollidorStructure(Clone)13
+10:43:09  SQUARE:Square(Clone)31 BUILT.  USED:CollidorStructure(Clone)17
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)31:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)31:CollidorStructure(Clone)17
+10:43:09  SQUARE:Square(Clone)32 BUILT.  USED:DualCollidorStructure(Clone)14
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)32:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)32:DualCollidorStructure(Clone)14
+10:43:09  SQUARE:Square(Clone)33 BUILT.  USED:DualCollidorStructure(Clone)15
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)33:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)33:DualCollidorStructure(Clone)15
+10:43:09  SQUARE:Square(Clone)34 BUILT.  USED:DualCollidorStructure(Clone)16
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)34:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)34:DualCollidorStructure(Clone)16
+10:43:09  SQUARE:Square(Clone)35 BUILT.  USED:CollidorStructure(Clone)18
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)35:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)35:CollidorStructure(Clone)18
+10:43:09  SQUARE:Square(Clone)36 BUILT.  USED:DualCollidorStructure(Clone)17
+10:43:09  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:09  SquareOptimizer line:28: Square(Clone)36:HIDE BEGIN
+10:43:09  SquareOptimizer line:62: Square(Clone)36:DualCollidorStructure(Clone)17
+10:43:10  SQUARE:Square(Clone)37 BUILT.  USED:CollidorStructure(Clone)19
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)37:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)37:CollidorStructure(Clone)19
+10:43:10  SQUARE:Square(Clone)38 BUILT.  USED:DualCollidorStructure(Clone)18
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)38:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)38:DualCollidorStructure(Clone)18
+10:43:10  SQUARE:Square(Clone)39 BUILT.  USED:CollidorStructure(Clone)20
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)39:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)39:CollidorStructure(Clone)20
+10:43:10  SQUARE:Square(Clone)40 BUILT.  USED:DualCollidorStructure(Clone)19
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)40:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)40:DualCollidorStructure(Clone)19
+10:43:10  SQUARE:Square(Clone)41 BUILT.  USED:DualCollidorStructure(Clone)20
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)41:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)41:DualCollidorStructure(Clone)20
+10:43:10  SQUARE:Square(Clone)42 BUILT.  USED:DualCollidorStructure(Clone)21
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)42:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)42:DualCollidorStructure(Clone)21
+10:43:10  SQUARE:Square(Clone)43 BUILT.  USED:CollidorStructure(Clone)21
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)43:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)43:CollidorStructure(Clone)21
+10:43:10  SQUARE:Square(Clone)44 BUILT.  USED:CollidorStructure(Clone)22
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)44:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)44:CollidorStructure(Clone)22
+10:43:10  SQUARE:Square(Clone)45 BUILT.  USED:DualCollidorStructure(Clone)22
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)45:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)45:DualCollidorStructure(Clone)22
+10:43:10  SQUARE:Square(Clone)46 BUILT.  USED:DualCollidorStructure(Clone)23
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)46:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)46:DualCollidorStructure(Clone)23
+10:43:10  SQUARE:Square(Clone)47 BUILT.  USED:CollidorStructure(Clone)23
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)47:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)47:CollidorStructure(Clone)23
+10:43:10  SQUARE:Square(Clone)48 BUILT.  USED:CollidorStructure(Clone)24
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)48:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)48:CollidorStructure(Clone)24
+10:43:10  SQUARE:Square(Clone)49 BUILT.  USED:DualCollidorStructure(Clone)24
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)49:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)49:DualCollidorStructure(Clone)24
+10:43:10  SQUARE:Square(Clone)50 BUILT.  USED:DualCollidorStructure(Clone)25
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)50:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)50:DualCollidorStructure(Clone)25
+10:43:10  SQUARE:Square(Clone)51 BUILT.  USED:CollidorStructure(Clone)25
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)51:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)51:CollidorStructure(Clone)25
+10:43:10  SQUARE:Square(Clone)52 BUILT.  USED:DualCollidorStructure(Clone)26
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)52:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)52:DualCollidorStructure(Clone)26
+10:43:10  SQUARE:Square(Clone)53 BUILT.  USED:CollidorStructure(Clone)26
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)53:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)53:CollidorStructure(Clone)26
+10:43:10  SQUARE:Square(Clone)54 BUILT.  USED:CollidorStructure(Clone)27
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)54:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)54:CollidorStructure(Clone)27
+10:43:10  SQUARE:Square(Clone)55 BUILT.  USED:DualCollidorStructure(Clone)27
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)55:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)55:DualCollidorStructure(Clone)27
+10:43:10  SQUARE:Square(Clone)56 BUILT.  USED:CollidorStructure(Clone)28
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)56:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)56:CollidorStructure(Clone)28
+10:43:10  SQUARE:Square(Clone)57 BUILT.  USED:CollidorStructure(Clone)29
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)57:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)57:CollidorStructure(Clone)29
+10:43:10  SQUARE:Square(Clone)58 BUILT.  USED:CollidorStructure(Clone)30
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)58:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)58:CollidorStructure(Clone)30
+10:43:10  SQUARE:Square(Clone)59 BUILT.  USED:DualCollidorStructure(Clone)28
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)59:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)59:DualCollidorStructure(Clone)28
+10:43:10  SQUARE:Square(Clone)60 BUILT.  USED:CollidorStructure(Clone)31
+10:43:10  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:10  SquareOptimizer line:28: Square(Clone)60:HIDE BEGIN
+10:43:10  SquareOptimizer line:62: Square(Clone)60:CollidorStructure(Clone)31
+10:43:11  SQUARE:Square(Clone)61 BUILT.  USED:DualCollidorStructure(Clone)29
+10:43:11  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:11  SquareOptimizer line:28: Square(Clone)61:HIDE BEGIN
+10:43:11  SquareOptimizer line:62: Square(Clone)61:DualCollidorStructure(Clone)29
+10:43:11  SQUARE:Square(Clone)62 BUILT.  USED:CollidorStructure(Clone)32
+10:43:11  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:11  SquareOptimizer line:28: Square(Clone)62:HIDE BEGIN
+10:43:11  SquareOptimizer line:62: Square(Clone)62:CollidorStructure(Clone)32
+10:43:11  SQUARE:Square(Clone)63 BUILT.  USED:DualCollidorStructure(Clone)30
+10:43:11  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:11  SquareOptimizer line:28: Square(Clone)63:HIDE BEGIN
+10:43:11  SquareOptimizer line:62: Square(Clone)63:DualCollidorStructure(Clone)30
+10:43:11  SQUARE:Square(Clone)64 BUILT.  USED:CollidorStructure(Clone)33
+10:43:11  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:11  SquareOptimizer line:28: Square(Clone)64:HIDE BEGIN
+10:43:11  SquareOptimizer line:62: Square(Clone)64:CollidorStructure(Clone)33
+10:43:11  SQUARE:Square(Clone)65 BUILT.  USED:DualCollidorStructure(Clone)31
+10:43:11  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:11  SquareOptimizer line:28: Square(Clone)65:HIDE BEGIN
+10:43:11  SquareOptimizer line:62: Square(Clone)65:DualCollidorStructure(Clone)31
+10:43:11  SQUARE:Square(Clone)66 BUILT.  USED:DualCollidorStructure(Clone)32
+10:43:11  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:11  SquareOptimizer line:28: Square(Clone)66:HIDE BEGIN
+10:43:11  SquareOptimizer line:62: Square(Clone)66:DualCollidorStructure(Clone)32
+10:43:11  SQUARE:Square(Clone)67 BUILT.  USED:CollidorStructure(Clone)34
+10:43:11  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:11  SquareOptimizer line:28: Square(Clone)67:HIDE BEGIN
+10:43:11  SquareOptimizer line:62: Square(Clone)67:CollidorStructure(Clone)34
+10:43:11  SQUARE:Square(Clone)68 BUILT.  USED:DualCollidorStructure(Clone)33
+10:43:11  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:11  SquareOptimizer line:28: Square(Clone)68:HIDE BEGIN
+10:43:11  SquareOptimizer line:62: Square(Clone)68:DualCollidorStructure(Clone)33
+10:43:11  SQUARE:Square(Clone)69 BUILT.  USED:CollidorStructure(Clone)35
+10:43:11  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:11  SquareOptimizer line:28: Square(Clone)69:HIDE BEGIN
+10:43:11  SquareOptimizer line:62: Square(Clone)69:CollidorStructure(Clone)35
+10:43:11  SQUARE:Square(Clone)70 BUILT.  USED:DualCollidorStructure(Clone)34
+10:43:11  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:11  SquareOptimizer line:28: Square(Clone)70:HIDE BEGIN
+10:43:11  SquareOptimizer line:62: Square(Clone)70:DualCollidorStructure(Clone)34
+10:43:12  SQUARE:Square(Clone)71 BUILT.  USED:CollidorStructure(Clone)36
+10:43:12  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:12  SquareOptimizer line:28: Square(Clone)71:HIDE BEGIN
+10:43:12  SquareOptimizer line:62: Square(Clone)71:CollidorStructure(Clone)36
+10:43:12  SQUARE:Square(Clone)72 BUILT.  USED:DualCollidorStructure(Clone)35
+10:43:12  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:12  SquareOptimizer line:28: Square(Clone)72:HIDE BEGIN
+10:43:12  SquareOptimizer line:62: Square(Clone)72:DualCollidorStructure(Clone)35
+10:43:12  SQUARE:Square(Clone)73 BUILT.  USED:DualCollidorStructure(Clone)36
+10:43:12  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:12  SquareOptimizer line:28: Square(Clone)73:HIDE BEGIN
+10:43:12  SquareOptimizer line:62: Square(Clone)73:DualCollidorStructure(Clone)36
+10:43:12  SQUARE:Square(Clone)74 BUILT.  USED:DualCollidorStructure(Clone)37
+10:43:12  SquareOptimizer line:24: ________________LOG START__________________________
+10:43:12  SquareOptimizer line:28: Square(Clone)74:HIDE BEGIN
+10:43:12  SquareOptimizer line:62: Square(Clone)74:DualCollidorStructure(Clone)37
+10:43:15  SquareOptimizer line:62: Square(Clone)20:CollidorStructure(Clone)10
+10:43:16  SquareOptimizer line:62: Square(Clone)66:DualCollidorStructure(Clone)32
+10:43:17  SquareOptimizer line:62: Square(Clone)33:DualCollidorStructure(Clone)15
+10:43:19  SquareOptimizer line:62: Square(Clone)67:CollidorStructure(Clone)34
+10:43:21  SquareOptimizer line:62: Square(Clone)14:CollidorStructure(Clone)6
+10:43:25  SquareOptimizer line:62: Square(Clone)20:CollidorStructure(Clone)10
+10:43:27  SquareOptimizer line:62: Square(Clone)9:CollidorStructure(Clone)3
+10:43:29  SquareOptimizer line:62: Square(Clone)39:CollidorStructure(Clone)20
+10:43:34  SquareOptimizer line:62: Square(Clone)12:CollidorStructure(Clone)4
+10:43:35  SquareOptimizer line:62: Square(Clone)27:CollidorStructure(Clone)14
+10:43:35  SquareOptimizer line:62: Square(Clone)10:DualCollidorStructure(Clone)6
+10:43:37  SquareOptimizer line:62: Square(Clone)19:DualCollidorStructure(Clone)9
+10:43:41  SquareOptimizer line:62: Square(Clone)37:CollidorStructure(Clone)19
+10:43:43  SquareOptimizer line:62: Square(Clone)32:DualCollidorStructure(Clone)14
+10:43:43  SquareOptimizer line:62: Square(Clone)20:CollidorStructure(Clone)10
+10:43:44  SquareOptimizer line:62: Square(Clone)6:DualCollidorStructure(Clone)3
+10:43:46  SquareOptimizer line:62: Square(Clone)64:CollidorStructure(Clone)33
+10:43:53  SquareOptimizer line:62: Square(Clone)49:DualCollidorStructure(Clone)24
+10:43:55  SquareOptimizer line:62: Square(Clone)46:DualCollidorStructure(Clone)23
+10:43:56  SquareOptimizer line:62: Square(Clone)2:DualCollidorStructure(Clone)1
+10:43:57  SquareOptimizer line:62: Square(Clone)21:CollidorStructure(Clone)11
+10:43:57  SquareOptimizer line:62: Square(Clone)25:DualCollidorStructure(Clone)12
+10:44:00  SquareOptimizer line:62: Square(Clone)5:CollidorStructure(Clone)2
+10:44:01  SquareOptimizer line:62: Square(Clone)5:CollidorStructure(Clone)2
+10:44:04  SquareOptimizer line:62: Square(Clone)52:DualCollidorStructure(Clone)26
+10:44:04  SquareOptimizer line:62: Square(Clone)57:CollidorStructure(Clone)29
+10:44:07  SquareOptimizer line:62: Square(Clone)31:CollidorStructure(Clone)17
+10:44:10  SquareOptimizer line:62: Square(Clone)46:DualCollidorStructure(Clone)23
+10:44:11  SquareOptimizer line:62: Square(Clone)21:CollidorStructure(Clone)11
+10:44:12  SquareOptimizer line:62: Square(Clone)2:DualCollidorStructure(Clone)1
+10:44:13  SquareOptimizer line:62: Square(Clone)25:DualCollidorStructure(Clone)12
+10:44:34  SquareOptimizer line:62: Square(Clone)5:CollidorStructure(Clone)2
+10:44:36  SquareOptimizer line:62: Square(Clone)28:CollidorStructure(Clone)15
+10:44:41  SquareOptimizer line:62: Square(Clone)73:DualCollidorStructure(Clone)36
+10:44:42  SquareOptimizer line:62: Square(Clone)16:CollidorStructure(Clone)8
+10:44:46  SquareOptimizer line:62: Square(Clone)16:CollidorStructure(Clone)8
+10:44:46  SquareOptimizer line:62: Square(Clone)23:DualCollidorStructure(Clone)11
+10:44:54  SquareOptimizer line:62: Square(Clone)8:DualCollidorStructure(Clone)5
+10:44:58  SquareOptimizer line:62: Square(Clone)57:CollidorStructure(Clone)29
+10:44:58  SquareOptimizer line:62: Square(Clone)52:DualCollidorStructure(Clone)26
+10:45:00  SquareOptimizer line:62: Square(Clone)31:CollidorStructure(Clone)17
+10:45:08  SquareOptimizer line:62: Square(Clone)25:DualCollidorStructure(Clone)12
+10:48:17  SquareOptimizer line:62: Square(Clone)31:CollidorStructure(Clone)17
+10:48:19  SquareOptimizer line:62: Square(Clone)21:CollidorStructure(Clone)11
+10:48:20  SquareOptimizer line:62: Square(Clone)25:DualCollidorStructure(Clone)12
+10:48:22  SquareOptimizer line:62: Square(Clone)5:CollidorStructure(Clone)2
+10:48:25  SquareOptimizer line:62: Square(Clone)52:DualCollidorStructure(Clone)26
+10:48:26  SquareOptimizer line:62: Square(Clone)57:CollidorStructure(Clone)29
+10:48:29  SquareOptimizer line:62: Square(Clone)31:CollidorStructure(Clone)17
+10:48:48  SquareOptimizer line:62: Square(Clone)2:DualCollidorStructure(Clone)1
+10:48:49  SquareOptimizer line:62: Square(Clone)21:CollidorStructure(Clone)11
+10:48:49  SquareOptimizer line:62: Square(Clone)25:DualCollidorStructure(Clone)12

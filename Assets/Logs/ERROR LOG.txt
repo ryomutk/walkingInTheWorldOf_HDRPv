@@ -95,3 +95,6 @@
 01:48:50  ROAD SERVER: ERROR!:end directionback is not suitable
 01:48:50  ROAD SERVER: ERROR!:end directionback is not suitable
 01:48:50  ROAD SERVER: ERROR!:end directionback is not suitable
+10:43:42  CASTTESTOR: !!ERROR!! SQUARE IS NULL
+10:43:42  CASTTESTOR: !!ERROR!! SQUARE IS NULL
+10:44:35  CASTTESTOR: !!ERROR!! SQUARE IS NULL

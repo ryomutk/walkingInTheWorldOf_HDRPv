@@ -92,10 +92,8 @@ namespace InputSystem
             if (Input.GetKey(forwardKey))
             {
                 state = ModuleState.working;
-                var direction = Quaternion.Euler(0, transform.eulerAngles.y, 0) * forward;
 
-                motion.Move(direction);
-                TextPort.Display(1, direction + "");
+                motion.Move(forward);
             }
             else if (state == ModuleState.working)
             {
@@ -127,10 +125,9 @@ namespace InputSystem
                     var direction = transform.rotation * keyPairs[key];
                     motion.Slide(direction);
                 }
-                else
-                {
-                    yield return null;
-                }
+
+                yield return null;
+
             }
         }
 

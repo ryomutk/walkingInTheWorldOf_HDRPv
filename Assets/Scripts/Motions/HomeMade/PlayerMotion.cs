@@ -11,19 +11,18 @@ namespace Motion
         Easer easer;
         [SerializeField] DG.Tweening.Ease moveStartEase;
         [SerializeField] DG.Tweening.Ease moveEndEase;
-
-        //信号を読み取る間隔であり、1mを進む時間でもある
-        [SerializeField] float unitTick;
         ModuleState state;
 
 
         //速度単位はm/s
         [SerializeField] float speed = 2;
+        Utility.Logger logger;
 
 
         void Start()
         {
             easer = new Easer();
+            logger = new Utility.Logger("MoveLog","PLAYER MOTION");
         }
 
         public bool Move(Vector3 direction)
@@ -42,30 +41,27 @@ namespace Motion
         //Stopが呼ばれるまで動き続ける
         IEnumerator MoveCoroutine(Vector3 direction)
         {
-            var worldDirection = transform.rotation * direction;
+            logger.Log("MOVE START");
             do
             {
                 yield return null;
-                transform.parent.position += worldDirection * speed * Time.deltaTime;
+                transform.parent.position += transform.rotation * direction * speed * Time.deltaTime;
             }
             while (state == ModuleState.working);
 
             //以下スナッピング
             var targetSpot = transform.parent.position;
 
-            //向きベースで充填
-            targetSpot.x += Mathf.Sign(direction.x);
-            targetSpot.y += Mathf.Sign(direction.y);
-
             //切り捨て
-            targetSpot = Vector3Int.FloorToInt(targetSpot);
-            var delta = targetSpot - transform.parent.position;
+            targetSpot = Vector3Int.RoundToInt(targetSpot);
+            logger.LogLine("snap target is:"+targetSpot);
 
             while (Vector3.Distance(transform.parent.position, targetSpot) > Vector3.kEpsilon)
             {
-                Vector3.MoveTowards(transform.parent.position, targetSpot, speed * Time.deltaTime);
+                transform.parent.position = Vector3.MoveTowards(transform.parent.position, targetSpot, speed * Time.deltaTime);
                 yield return null;
             }
+            logger.LogLine("MOVE END");
         }
 
         public bool Slide(Vector3 direction)
